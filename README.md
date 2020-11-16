@@ -29,7 +29,7 @@ The additional analysis using data available from the 'COVID-19 Genomics UK (COG
 
  - ~~JSON files from Nextstrain output are located at `data/json.tar.gz`. There are two files, `SARS-CoV-2-project_NextstrainAustria.json` (including all Austrian + GISAID samples) and `SARS-CoV-2-project_NextstrainAustria_OnlyAustrian.json` (with only Austrian samples).~~ held until publication
 
- - ~~All the extracted variants are located here: `data/intra/`  `data/inter/` ~~ held until publication
+ - ~~All the extracted variants are located here: `data/intra/`  `data/inter/`~~ held until publication
 
 - In addition, lists of mutations for illumina (`data/illumina/`) and nanopore sars-cov2 (`data/nanopore/`) and MERS (`data/MERS/`) are available. 
 
