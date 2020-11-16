@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/313251409.svg)](https://zenodo.org/badge/latestdoi/313251409)
+
+
 This repository presents the SARS-CoV-2 genomics analyses conducted by Miguel L. Grau, Francisco Martínez-Jiménez, Oriol Pich and Nuria Lopez-Bigas at the Biomedical Genomics Lab of Barcelona <https://bbglab.irbbarcelona.org/>.   
 
 Most of these analyses are included in the manuscript "Mutational dynamics and transmission properties of SARS-CoV-2 <citation>", please consider citing this manuscript if you want to reference any of these results.   
