@@ -2,9 +2,16 @@ This repository presents the SARS-CoV-2 genomics analyses conducted by Miguel L.
 
 Most of these analyses are included in the manuscript "Mutational dynamics and transmission properties of SARS-CoV-2 <citation>", please consider citing this manuscript if you want to reference any of these results.   
 
-## Table of contents  
-  
-[TOC]   
+# Table of contents
+
+1. [Background](#background)
+2. [Preprocessing of mutations](#preprocessing-of-mutations)
+    1. [Directory tree](#directory-tree)
+    2. [Inter-host](#inter-host)
+    3. [Intra-host](#inter-host)
+3. [Mutational profile](#mutational-profile)
+3. [Mutation rate](#mutation-rate)
+3. [Mutational Signature Extraction](#mutational-signature-extraction)
 
 ## Background  
 
