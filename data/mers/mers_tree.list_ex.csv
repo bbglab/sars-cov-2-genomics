@@ -1,0 +1,2115 @@
+mutation	branch	ref	alt	pos	csqn_type
+T98C		T	C	98	
+A542G		A	G	542	
+T624C		T	C	624	
+T1514C		T	C	1514	
+C2009T		C	T	2009	
+A2040G		A	G	2040	
+C2169A		C	A	2169	
+T2318C		T	C	2318	
+T2456A		T	A	2456	
+G2461T		G	T	2461	
+T3134C		T	C	3134	
+T3277C		T	C	3277	
+C3320T		C	T	3320	
+T3441C		T	C	3441	
+A3487C		A	C	3487	
+G3559A		G	A	3559	
+A4034G		A	G	4034	
+T4388G		T	G	4388	
+T4847C		T	C	4847	
+A4995G		A	G	4995	
+A4996G		A	G	4996	
+A5427T		A	T	5427	
+G5516A		G	A	5516	
+C6059T		C	T	6059	
+C6293T		C	T	6293	
+T6332C		T	C	6332	
+T6619C		T	C	6619	
+T6707C		T	C	6707	
+T8207C		T	C	8207	
+T8258C		T	C	8258	
+T8333C		T	C	8333	
+C8546T		C	T	8546	
+T8617C		T	C	8617	
+G9516A		G	A	9516	
+T10505C		T	C	10505	
+T10835G		T	G	10835	
+C10982T		C	T	10982	
+T11492C		T	C	11492	
+G11534A		G	A	11534	
+C11984T		C	T	11984	
+T12425C		T	C	12425	
+T12684C		T	C	12684	
+A12707G		A	G	12707	
+T12845C		T	C	12845	
+T13022C		T	C	13022	
+T13678C		T	C	13678	
+C14992T		C	T	14992	
+T15196C		T	C	15196	
+C16804T		C	T	16804	
+T17752C		T	C	17752	
+G17771T		G	T	17771	
+T17794C		T	C	17794	
+C18079T		C	T	18079	
+C18415A		C	A	18415	
+A19075G		A	G	19075	
+G19940T		G	T	19940	
+G20182T		G	T	20182	
+A20848C		A	C	20848	
+T22790C		T	C	22790	
+C25046T		C	T	25046	
+T25208C		T	C	25208	
+C25530T		C	T	25530	
+C25570T		C	T	25570	
+T25596C		T	C	25596	
+G25761T		G	T	25761	
+T25899C		T	C	25899	
+T25923C		T	C	25923	
+C26223A		C	A	26223	
+T26716C		T	C	26716	
+C26806T		C	T	26806	
+C27277A		C	A	27277	
+G28634A		G	A	28634	
+C28772T		C	T	28772	
+G29097T		G	T	29097	
+T23648C		T	C	23648	synonymous_variant
+T23756C		T	C	23756	synonymous_variant
+C24191T		C	T	24191	synonymous_variant
+C24251T		C	T	24251	synonymous_variant
+A24514G		A	G	24514	missense_variant
+T101C		T	C	101	upstream_gene_variant
+C341A		C	A	341	missense_variant
+G806T		G	T	806	synonymous_variant
+A10486G		A	G	10486	missense_variant
+T12866C		T	C	12866	synonymous_variant
+T15757C		T	C	15757	synonymous_variant
+C18526T		C	T	18526	synonymous_variant
+G19598T		G	T	19598	missense_variant
+A22981G		A	G	22981	missense_variant
+C25926T		C	T	25926	synonymous_variant
+C27092T		C	T	27092	synonymous_variant
+A75T		A	T	75	upstream_gene_variant
+A3276G		A	G	3276	missense_variant
+C8518T		C	T	8518	missense_variant
+G9395A		G	A	9395	synonymous_variant
+C10874T		C	T	10874	synonymous_variant
+T11492C		T	C	11492	
+G11534A		G	A	11534	
+T17788C		T	C	17788	synonymous_variant
+G18475A		G	A	18475	synonymous_variant
+A19075G		A	G	19075	
+G19418A		G	A	19418	missense_variant
+T21569C		T	C	21569	synonymous_variant
+T22895C		T	C	22895	synonymous_variant
+T23406C		T	C	23406	synonymous_variant
+T23714G		T	G	23714	synonymous_variant
+C25052T		C	T	25052	synonymous_variant
+C25597T		C	T	25597	synonymous_variant
+C26167T		C	T	26167	missense_variant
+T127C		T	C	127	upstream_gene_variant
+T132C		T	C	132	upstream_gene_variant
+T624C		T	C	624	
+T750G		T	G	750	missense_variant
+C1232T		C	T	1232	synonymous_variant
+C1265T		C	T	1265	synonymous_variant
+C2477G		C	G	2477	missense_variant
+C2480T		C	T	2480	synonymous_variant
+G2484A		G	A	2484	missense_variant
+T3803C		T	C	3803	synonymous_variant
+T5103C		T	C	5103	missense_variant
+C5925T		C	T	5925	missense_variant
+C6281T		C	T	6281	synonymous_variant
+C6650T		C	T	6650	synonymous_variant
+C8114T		C	T	8114	synonymous_variant
+G10370A		G	A	10370	synonymous_variant
+C11631T		C	T	11631	missense_variant
+C11780T		C	T	11780	synonymous_variant
+C12299T		C	T	12299	synonymous_variant
+T13900C		T	C	13900	synonymous_variant
+G13999A		G	A	13999	missense_variant
+G15247A		G	A	15247	synonymous_variant
+T15331C		T	C	15331	synonymous_variant
+T16738C		T	C	16738	synonymous_variant
+T16947C		T	C	16947	missense_variant
+G19036T		G	T	19036	synonymous_variant
+A19418G		A	G	19418	
+C21745T		C	T	21745	missense_variant
+C22652T		C	T	22652	synonymous_variant
+C22726T		C	T	22726	missense_variant
+T24251C		T	C	24251	
+C24863T		C	T	24863	synonymous_variant
+T25392A		T	A	25392	missense_variant
+G26243A		G	A	26243	missense_variant
+C27229T		C	T	27229	synonymous_variant
+G28057A		G	A	28057	missense_variant
+T29366C		T	C	29366	synonymous_variant
+G29444T		G	T	29444	missense_variant
+C29464T		C	T	29464	missense_variant
+C29741T		C	T	29741	synonymous_variant
+A6169C		A	C	6169	missense_variant
+C7001A		C	A	7001	synonymous_variant
+C13396T		C	T	13396	missense_variant
+G14716T		G	T	14716	synonymous_variant
+C21220T		C	T	21220	synonymous_variant
+T737C		T	C	737	synonymous_variant
+A3677G		A	G	3677	synonymous_variant
+C5568T		C	T	5568	missense_variant
+T8885C		T	C	8885	synonymous_variant
+G21927T		G	T	21927	missense_variant
+T28572G		T	G	28572	missense_variant
+A28673T		A	T	28673	synonymous_variant
+T4646C		T	C	4646	synonymous_variant
+T4945C		T	C	4945	missense_variant
+C15931T		C	T	15931	synonymous_variant
+C24383T		C	T	24383	synonymous_variant
+G24899C		G	C	24899	missense_variant
+C27821T		C	T	27821	missense_variant
+A27911G		A	G	27911	missense_variant
+C11631T		C	T	11631	missense_variant
+T26967C		T	C	26967	missense_variant
+A27874G		A	G	27874	missense_variant
+C301T		C	T	301	missense_variant
+G476A		G	A	476	synonymous_variant
+A542G		A	G	542	
+T624C		T	C	624	
+C27229T		C	T	27229	synonymous_variant
+G28057A		G	A	28057	missense_variant
+T1454C		T	C	1454	synonymous_variant
+T1514C		T	C	1514	
+C1833A		C	A	1833	missense_variant
+C24383T		C	T	24383	synonymous_variant
+G4322T		G	T	4322	missense_variant
+C4941T		C	T	4941	missense_variant
+A8770G		A	G	8770	missense_variant
+C17311T		C	T	17311	synonymous_variant
+C20874T		C	T	20874	missense_variant
+C22834T		C	T	22834	missense_variant
+C24659T		C	T	24659	synonymous_variant
+T24926C		T	C	24926	synonymous_variant
+C25671T		C	T	25671	missense_variant
+C29237T		C	T	29237	synonymous_variant
+C28996T		C	T	28996	stop_gained
+T127C		T	C	127	upstream_gene_variant
+T301C		T	C	301	
+C1178T		C	T	1178	synonymous_variant
+G21927T		G	T	21927	missense_variant
+G19036T		G	T	19036	synonymous_variant
+C24863T		C	T	24863	synonymous_variant
+C3139A		C	A	3139	missense_variant
+C5900T		C	T	5900	synonymous_variant
+C6169A		C	A	6169	
+T6332C		T	C	6332	
+G6995T		G	T	6995	synonymous_variant
+A7001C		A	C	7001	
+T8518C		T	C	8518	
+A9395G		A	G	9395	
+C10331T		C	T	10331	synonymous_variant
+T10748C		T	C	10748	synonymous_variant
+C17614T		C	T	17614	synonymous_variant
+A18475G		A	G	18475	
+C25590T		C	T	25590	missense_variant
+C28185T		C	T	28185	synonymous_variant
+C3442T		C	T	3442	missense_variant
+T4985A		T	A	4985	synonymous_variant
+T5234C		T	C	5234	synonymous_variant
+A5335G		A	G	5335	missense_variant
+C5444T		C	T	5444	synonymous_variant
+C5494T		C	T	5494	missense_variant
+C6076T		C	T	6076	missense_variant
+C6286T		C	T	6286	missense_variant
+G7238A		G	A	7238	synonymous_variant
+C7555T		C	T	7555	missense_variant
+C9290T		C	T	9290	synonymous_variant
+C9413T		C	T	9413	synonymous_variant
+C11631T		C	T	11631	missense_variant
+C15118T		C	T	15118	synonymous_variant
+C15310T		C	T	15310	synonymous_variant
+T15463C		T	C	15463	synonymous_variant
+T16894C		T	C	16894	synonymous_variant
+C18679T		C	T	18679	synonymous_variant
+G21097T		G	T	21097	synonymous_variant
+G25125A		G	A	25125	missense_variant
+C25295T		C	T	25295	synonymous_variant
+T25618C		T	C	25618	synonymous_variant
+T28880C		T	C	28880	missense_variant
+C29161G		C	G	29161	missense_variant
+C29474T		C	T	29474	synonymous_variant
+C1271T		C	T	1271	synonymous_variant
+A4995G		A	G	4995	
+C9455A		C	A	9455	synonymous_variant
+G22086T		G	T	22086	missense_variant
+A23767G		A	G	23767	missense_variant
+G28538T		G	T	28538	upstream_gene_variant
+A899G		A	G	899	synonymous_variant
+C9992T		C	T	9992	synonymous_variant
+G15778A		G	A	15778	synonymous_variant
+C23134T		C	T	23134	missense_variant
+G24951A		G	A	24951	missense_variant
+G26056T		G	T	26056	missense_variant
+G26448T		G	T	26448	missense_variant
+C28811T		C	T	28811	missense_variant
+C668T		C	T	668	synonymous_variant
+A933G		A	G	933	missense_variant
+T1976A		T	A	1976	synonymous_variant
+C3607T		C	T	3607	missense_variant
+A3677G		A	G	3677	synonymous_variant
+C4563T		C	T	4563	synonymous_variant
+C5376T		C	T	5376	missense_variant
+T7733C		T	C	7733	synonymous_variant
+T8518C		T	C	8518	
+A9395G		A	G	9395	
+A11699G		A	G	11699	synonymous_variant
+T13396C		T	C	13396	
+C16247T		C	T	16247	synonymous_variant
+T16660A		T	A	16660	synonymous_variant
+G16998A		G	A	16998	missense_variant
+T20131C		T	C	20131	synonymous_variant
+T22334C		T	C	22334	synonymous_variant
+C22686T		C	T	22686	missense_variant
+T22790C		T	C	22790	
+C22895T		C	T	22895	
+C23406T		C	T	23406	
+G23714T		G	T	23714	
+C26231T		C	T	26231	missense_variant
+A26346T		A	T	26346	missense_variant
+C26449A		C	A	26449	synonymous_variant
+C27849A		C	A	27849	upstream_gene_variant
+C28996T		C	T	28996	stop_gained
+A29714T		A	T	29714	synonymous_variant
+G29749A		G	A	29749	missense_variant
+T9697C		T	C	9697	missense_variant
+C17462T		C	T	17462	missense_variant
+C20284T		C	T	20284	synonymous_variant
+G3339T		G	T	3339	missense_variant
+C8131T		C	T	8131	missense_variant
+A9457C		A	C	9457	missense_variant
+A16644G		A	G	16644	missense_variant
+T16929C		T	C	16929	missense_variant
+C11631T		C	T	11631	missense_variant
+C29464T		C	T	29464	missense_variant
+T26144C		T	C	26144	missense_variant
+C3419T		C	T	3419	synonymous_variant
+A22396G		A	G	22396	missense_variant
+C23697T		C	T	23697	missense_variant
+T24338C		T	C	24338	synonymous_variant
+G25453C		G	C	25453	missense_variant
+T1064C		T	C	1064	synonymous_variant
+A3127G		A	G	3127	missense_variant
+A3927G		A	G	3927	missense_variant
+C7418T		C	T	7418	synonymous_variant
+G10474A		G	A	10474	missense_variant
+C14026T		C	T	14026	synonymous_variant
+T19190C		T	C	19190	missense_variant
+A21459G		A	G	21459	missense_variant
+G23209C		G	C	23209	missense_variant
+T20677C		T	C	20677	synonymous_variant
+T23130C		T	C	23130	missense_variant
+T23273C		T	C	23273	synonymous_variant
+A25265G		A	G	25265	synonymous_variant
+C27462T		C	T	27462	missense_variant
+T5321C		T	C	5321	synonymous_variant
+C1444T		C	T	1444	missense_variant
+A20848C		A	C	20848	
+T22334C		T	C	22334	synonymous_variant
+T22790C		T	C	22790	
+C25926T		C	T	25926	synonymous_variant
+C27092T		C	T	27092	synonymous_variant
+T23056C		T	C	23056	missense_variant
+C27917T		C	T	27917	missense_variant
+T21965C		T	C	21965	synonymous_variant
+C1388T		C	T	1388	synonymous_variant
+G4944A		G	A	4944	missense_variant
+A5185G		A	G	5185	missense_variant
+C9626T		C	T	9626	synonymous_variant
+G19450A		G	A	19450	synonymous_variant
+C22301T		C	T	22301	synonymous_variant
+C23570T		C	T	23570	synonymous_variant
+C23573T		C	T	23573	synonymous_variant
+G25823A		G	A	25823	missense_variant
+C28862T		C	T	28862	missense_variant
+G21853A		G	A	21853	missense_variant
+C12299T		C	T	12299	synonymous_variant
+T18046C		T	C	18046	synonymous_variant
+T21791C		T	C	21791	synonymous_variant
+C24806T		C	T	24806	synonymous_variant
+A2614C		A	C	2614	missense_variant
+G3324A		G	A	3324	missense_variant
+C3500T		C	T	3500	synonymous_variant
+C5155T		C	T	5155	missense_variant
+C6666T		C	T	6666	missense_variant
+T7550C		T	C	7550	synonymous_variant
+A11699G		A	G	11699	synonymous_variant
+C18934T		C	T	18934	synonymous_variant
+G22746C		G	C	22746	missense_variant
+C22900T		C	T	22900	missense_variant
+G25810T		G	T	25810	synonymous_variant
+T26821C		T	C	26821	synonymous_variant
+G26825T		G	T	26825	stop_gained
+T27092C		T	C	27092	
+C27229T		C	T	27229	synonymous_variant
+G28057A		G	A	28057	missense_variant
+C28185T		C	T	28185	synonymous_variant
+C28737T		C	T	28737	missense_variant
+A29700G		A	G	29700	missense_variant
+G29737T		G	T	29737	missense_variant
+G4397T		G	T	4397	synonymous_variant
+G5205T		G	T	5205	missense_variant
+G7926A		G	A	7926	missense_variant
+A10136G		A	G	10136	synonymous_variant
+G14716T		G	T	14716	synonymous_variant
+T20629C		T	C	20629	synonymous_variant
+G23357A		G	A	23357	synonymous_variant
+G25079T		G	T	25079	missense_variant
+T25704C		T	C	25704	missense_variant
+A25968T		A	T	25968	synonymous_variant
+C27283T		C	T	27283	synonymous_variant
+C20782T		C	T	20782	synonymous_variant
+T8183C		T	C	8183	synonymous_variant
+C27993T		C	T	27993	synonymous_variant
+G19346C		G	C	19346	missense_variant
+C27634A		C	A	27634	missense_variant
+C11533T		C	T	11533	missense_variant
+G16407T		G	T	16407	missense_variant
+G28941C		G	C	28941	missense_variant
+A3524G		A	G	3524	synonymous_variant
+T19165C		T	C	19165	synonymous_variant
+A19347G		A	G	19347	missense_variant
+G24702T		G	T	24702	missense_variant
+C26889T		C	T	26889	missense_variant
+T19438C		T	C	19438	synonymous_variant
+T8518C		T	C	8518	
+A9395G		A	G	9395	
+G20487A		G	A	20487	missense_variant
+T28572G		T	G	28572	missense_variant
+A57C		A	C	57	upstream_gene_variant
+C11631T		C	T	11631	missense_variant
+C25135T		C	T	25135	missense_variant
+C25136T		C	T	25136	synonymous_variant
+T26966C		T	C	26966	synonymous_variant
+A27614G		A	G	27614	missense_variant
+C1604T		C	T	1604	synonymous_variant
+G6476A		G	A	6476	synonymous_variant
+C17998T		C	T	17998	synonymous_variant
+G25032T		G	T	25032	missense_variant
+T26880C		T	C	26880	missense_variant
+A1511G		A	G	1511	synonymous_variant
+C1829T		C	T	1829	synonymous_variant
+C4793T		C	T	4793	synonymous_variant
+C6452T		C	T	6452	synonymous_variant
+A6589G		A	G	6589	missense_variant
+C7721T		C	T	7721	synonymous_variant
+C14371T		C	T	14371	synonymous_variant
+A17053G		A	G	17053	synonymous_variant
+A20220C		A	C	20220	missense_variant
+T22319C		T	C	22319	synonymous_variant
+G24197T		G	T	24197	missense_variant
+C16347T		C	T	16347	missense_variant
+T20905C		T	C	20905	synonymous_variant
+A21828T		A	T	21828	missense_variant
+C27209T		C	T	27209	missense_variant
+A25528G		A	G	25528	upstream_gene_variant
+G25561A		G	A	25561	synonymous_variant
+T26841C		T	C	26841	start_lost
+C3501A		C	A	3501	missense_variant
+T18763C		T	C	18763	synonymous_variant
+C23690T		C	T	23690	synonymous_variant
+A2649G		A	G	2649	missense_variant
+C3432T		C	T	3432	missense_variant
+G18469T		G	T	18469	synonymous_variant
+G22596T		G	T	22596	missense_variant
+G25644C		G	C	25644	missense_variant
+G28779T		G	T	28779	missense_variant
+A4381G		A	G	4381	missense_variant
+C381T		C	T	381	missense_variant
+C3110T		C	T	3110	synonymous_variant
+T18208C		T	C	18208	synonymous_variant
+G23883A		G	A	23883	missense_variant
+C24602T		C	T	24602	synonymous_variant
+C25364T		C	T	25364	synonymous_variant
+C2864A		C	A	2864	synonymous_variant
+C5969T		C	T	5969	synonymous_variant
+T6398C		T	C	6398	synonymous_variant
+C11426T		C	T	11426	synonymous_variant
+T15517C		T	C	15517	synonymous_variant
+G22130A		G	A	22130	synonymous_variant
+G22995T		G	T	22995	missense_variant
+C24928T		C	T	24928	missense_variant
+G25179T		G	T	25179	missense_variant
+G26161C		G	C	26161	missense_variant
+G26437A		G	A	26437	synonymous_variant
+C27351T		C	T	27351	missense_variant
+G27864A		G	A	27864	missense_variant
+C28632A		C	A	28632	missense_variant
+C3968T		C	T	3968	synonymous_variant
+A23685C		A	C	23685	missense_variant
+C4625T		C	T	4625	synonymous_variant
+C6189T		C	T	6189	missense_variant
+C11631T		C	T	11631	missense_variant
+T11766C		T	C	11766	synonymous_variant
+C22394T		C	T	22394	synonymous_variant
+G24518A		G	A	24518	synonymous_variant
+C12733T		C	T	12733	missense_variant
+C17836T		C	T	17836	synonymous_variant
+G14156A		G	A	14156	missense_variant
+G24470C		G	C	24470	synonymous_variant
+C3295T		C	T	3295	missense_variant
+T3539A		T	A	3539	synonymous_variant
+C11375T		C	T	11375	synonymous_variant
+C11417T		C	T	11417	synonymous_variant
+T12548C		T	C	12548	synonymous_variant
+T12971A		T	A	12971	synonymous_variant
+A15207G		A	G	15207	missense_variant
+G28057T		G	T	28057	missense_variant
+A3799G		A	G	3799	missense_variant
+C5065T		C	T	5065	missense_variant
+T5381C		T	C	5381	synonymous_variant
+G15592A		G	A	15592	synonymous_variant
+C18045T		C	T	18045	missense_variant
+G21531T		G	T	21531	missense_variant
+C22790T		C	T	22790	synonymous_variant
+A23549G		A	G	23549	synonymous_variant
+C24687T		C	T	24687	synonymous_variant
+A27204T		A	T	27204	missense_variant
+A27206C		A	C	27206	missense_variant
+T27208A		T	A	27208	synonymous_variant
+A27211C		A	C	27211	synonymous_variant
+T2015C		T	C	2015	synonymous_variant
+C7610T		C	T	7610	synonymous_variant
+T13331C		T	C	13331	synonymous_variant
+C19072T		C	T	19072	synonymous_variant
+T22913C		T	C	22913	synonymous_variant
+G26672T		G	T	26672	missense_variant
+G27867T		G	T	27867	synonymous_variant
+G29170T		G	T	29170	missense_variant
+C3280T		C	T	3280	missense_variant
+T7124G		T	G	7124	synonymous_variant
+A1565G		A	G	1565	synonymous_variant
+A2396G		A	G	2396	synonymous_variant
+C3430T		C	T	3430	missense_variant
+T5955A		T	A	5955	missense_variant
+C5972T		C	T	5972	synonymous_variant
+A10917C		A	C	10917	missense_variant
+C11852A		C	A	11852	synonymous_variant
+C12095G		C	G	12095	synonymous_variant
+C12509T		C	T	12509	synonymous_variant
+T15472C		T	C	15472	synonymous_variant
+G18403T		G	T	18403	synonymous_variant
+C18763A		C	A	18763	
+A20917G		A	G	20917	synonymous_variant
+C23290T		C	T	23290	missense_variant
+C23888T		C	T	23888	synonymous_variant
+A25520G		A	G	25520	upstream_gene_variant
+C25645T		C	T	25645	synonymous_variant
+T29740C		T	C	29740	missense_variant
+C1226T		C	T	1226	synonymous_variant
+A16381C		A	C	16381	synonymous_variant
+T18966G		T	G	18966	missense_variant
+C5438T		C	T	5438	synonymous_variant
+A12901C		A	C	12901	missense_variant
+C20692T		C	T	20692	synonymous_variant
+C27796T		C	T	27796	synonymous_variant
+C11785T		C	T	11785	missense_variant
+A18909C		A	C	18909	missense_variant
+A5152G		A	G	5152	missense_variant
+T21382C		T	C	21382	synonymous_variant
+G21777A		G	A	21777	missense_variant
+T23504C		T	C	23504	synonymous_variant
+T24299C		T	C	24299	synonymous_variant
+G24515C		G	C	24515	missense_variant
+C24740G		C	G	24740	synonymous_variant
+C25052T		C	T	25052	synonymous_variant
+C25597T		C	T	25597	synonymous_variant
+C27229T		C	T	27229	synonymous_variant
+A29714T		A	T	29714	synonymous_variant
+T4847C		T	C	4847	
+C25791A		C	A	25791	missense_variant
+T25819A		T	A	25819	missense_variant
+G28057A		G	A	28057	missense_variant
+C29147T		C	T	29147	synonymous_variant
+T1418G		T	G	1418	synonymous_variant
+C2452T		C	T	2452	missense_variant
+C4418T		C	T	4418	synonymous_variant
+T7009C		T	C	7009	missense_variant
+C11681T		C	T	11681	synonymous_variant
+T15040C		T	C	15040	synonymous_variant
+T22895C		T	C	22895	synonymous_variant
+C22958T		C	T	22958	synonymous_variant
+C23504T		C	T	23504	
+T23648C		T	C	23648	synonymous_variant
+T23756C		T	C	23756	synonymous_variant
+T6332C		T	C	6332	
+C8502T		C	T	8502	missense_variant
+C10133T		C	T	10133	synonymous_variant
+G10154A		G	A	10154	synonymous_variant
+C23570T		C	T	23570	synonymous_variant
+T1223C		T	C	1223	synonymous_variant
+G2295A		G	A	2295	missense_variant
+T2456A		T	A	2456	
+G2504A		G	A	2504	synonymous_variant
+C3320T		C	T	3320	
+A3474G		A	G	3474	missense_variant
+C5432T		C	T	5432	synonymous_variant
+A5593G		A	G	5593	missense_variant
+T6515C		T	C	6515	synonymous_variant
+C8038T		C	T	8038	missense_variant
+C16723T		C	T	16723	synonymous_variant
+G17995A		G	A	17995	synonymous_variant
+A24560G		A	G	24560	synonymous_variant
+A24704T		A	T	24704	synonymous_variant
+C25124T		C	T	25124	synonymous_variant
+T25208C		T	C	25208	
+T28260C		T	C	28260	synonymous_variant
+C29689T		C	T	29689	missense_variant
+C1685T		C	T	1685	synonymous_variant
+C2452T		C	T	2452	missense_variant
+A4995G		A	G	4995	
+T2372C		T	C	2372	synonymous_variant
+C3397T		C	T	3397	missense_variant
+C3715T		C	T	3715	missense_variant
+G7840A		G	A	7840	missense_variant
+G11363A		G	A	11363	synonymous_variant
+T11987C		T	C	11987	synonymous_variant
+C15973T		C	T	15973	synonymous_variant
+T20953C		T	C	20953	synonymous_variant
+G25491C		G	C	25491	missense_variant
+C25787T		C	T	25787	missense_variant
+C25788T		C	T	25788	missense_variant
+C27459T		C	T	27459	missense_variant
+T27823C		T	C	27823	synonymous_variant
+C26881T		C	T	26881	synonymous_variant
+C1226T		C	T	1226	synonymous_variant
+A1823G		A	G	1823	synonymous_variant
+C3320T		C	T	3320	
+T4945C		T	C	4945	missense_variant
+G8867T		G	T	8867	missense_variant
+G9185A		G	A	9185	synonymous_variant
+C19999T		C	T	19999	synonymous_variant
+G20191T		G	T	20191	missense_variant
+C21607T		C	T	21607	missense_variant
+A27895G		A	G	27895	missense_variant
+G29018T		G	T	29018	missense_variant
+A2179G		A	G	2179	missense_variant
+C3397T		C	T	3397	missense_variant
+T3707C		T	C	3707	synonymous_variant
+C5932T		C	T	5932	missense_variant
+C6397T		C	T	6397	missense_variant
+C890T		C	T	890	synonymous_variant
+C11533T		C	T	11533	missense_variant
+C13096T		C	T	13096	missense_variant
+C19513T		C	T	19513	synonymous_variant
+C20227T		C	T	20227	synonymous_variant
+C20494T		C	T	20494	synonymous_variant
+C2768T		C	T	2768	synonymous_variant
+C9998T		C	T	9998	synonymous_variant
+C19957T		C	T	19957	synonymous_variant
+C19999T		C	T	19999	synonymous_variant
+G26351T		G	T	26351	missense_variant
+G29018T		G	T	29018	missense_variant
+G2179A		G	A	2179	
+C10160T		C	T	10160	synonymous_variant
+G25806T		G	T	25806	missense_variant
+C26167T		C	T	26167	missense_variant
+T11708A		T	A	11708	synonymous_variant
+T15757C		T	C	15757	synonymous_variant
+G19598T		G	T	19598	missense_variant
+C22760T		C	T	22760	synonymous_variant
+C22971T		C	T	22971	missense_variant
+G29723T		G	T	29723	missense_variant
+C10874T		C	T	10874	synonymous_variant
+T11492C		T	C	11492	
+G11534A		G	A	11534	
+T16174C		T	C	16174	synonymous_variant
+C19999T		C	T	19999	synonymous_variant
+C23570T		C	T	23570	synonymous_variant
+C23804T		C	T	23804	synonymous_variant
+A24514G		A	G	24514	missense_variant
+C24515G		C	G	24515	
+G24740C		G	C	24740	
+G28057A		G	A	28057	missense_variant
+C3320T		C	T	3320	
+G3692T		G	T	3692	synonymous_variant
+C5658T		C	T	5658	missense_variant
+G6476A		G	A	6476	synonymous_variant
+C9659T		C	T	9659	synonymous_variant
+T12257C		T	C	12257	synonymous_variant
+T1533C		T	C	1533	missense_variant
+A1650G		A	G	1650	missense_variant
+C1685T		C	T	1685	synonymous_variant
+A1823G		A	G	1823	synonymous_variant
+G1869A		G	A	1869	missense_variant
+C2105T		C	T	2105	synonymous_variant
+A2184G		A	G	2184	missense_variant
+C2452T		C	T	2452	missense_variant
+C5384T		C	T	5384	synonymous_variant
+G8856T		G	T	8856	missense_variant
+T13906C		T	C	13906	synonymous_variant
+T17077C		T	C	17077	synonymous_variant
+C794T		C	T	794	synonymous_variant
+C1100T		C	T	1100	synonymous_variant
+T1331C		T	C	1331	synonymous_variant
+C2306T		C	T	2306	synonymous_variant
+C4834T		C	T	4834	missense_variant
+C5162T		C	T	5162	synonymous_variant
+C5657T		C	T	5657	synonymous_variant
+C7613T		C	T	7613	synonymous_variant
+G12696A		G	A	12696	missense_variant
+T13418G		T	G	13418	missense_variant
+C15041T		C	T	15041	synonymous_variant
+T15898C		T	C	15898	synonymous_variant
+C18227T		C	T	18227	missense_variant
+T19264C		T	C	19264	synonymous_variant
+C20188T		C	T	20188	synonymous_variant
+T20683C		T	C	20683	synonymous_variant
+T21677C		T	C	21677	synonymous_variant
+G23332T		G	T	23332	missense_variant
+A23691G		A	G	23691	missense_variant
+G24702T		G	T	24702	missense_variant
+C26848T		C	T	26848	synonymous_variant
+G428T		G	T	428	missense_variant
+T3153C		T	C	3153	missense_variant
+C4254T		C	T	4254	missense_variant
+A5931G		A	G	5931	missense_variant
+C7602T		C	T	7602	missense_variant
+T10694C		T	C	10694	synonymous_variant
+G13398A		G	A	13398	missense_variant
+C13501T		C	T	13501	synonymous_variant
+G14518A		G	A	14518	synonymous_variant
+G15339C		G	C	15339	missense_variant
+C17206T		C	T	17206	synonymous_variant
+G19598T		G	T	19598	missense_variant
+T25396C		T	C	25396	missense_variant
+A29288G		A	G	29288	synonymous_variant
+T29714A		T	A	29714	
+C29752T		C	T	29752	missense_variant
+T737C		T	C	737	synonymous_variant
+C2490T		C	T	2490	synonymous_variant
+C11631T		C	T	11631	missense_variant
+C17836T		C	T	17836	synonymous_variant
+A23953G		A	G	23953	missense_variant
+T28778A		T	A	28778	missense_variant
+T28880C		T	C	28880	missense_variant
+G28941C		G	C	28941	missense_variant
+A20568C		A	C	20568	missense_variant
+T23093C		T	C	23093	synonymous_variant
+C23503T		C	T	23503	missense_variant
+G6773A		G	A	6773	synonymous_variant
+C18631T		C	T	18631	synonymous_variant
+T18889C		T	C	18889	synonymous_variant
+G20974A		G	A	20974	synonymous_variant
+C1685T		C	T	1685	synonymous_variant
+C1787T		C	T	1787	synonymous_variant
+C18526T		C	T	18526	synonymous_variant
+C28375G		C	G	28375	missense_variant
+C28531T		C	T	28531	upstream_gene_variant
+C28576T		C	T	28576	missense_variant
+A4996G		A	G	4996	
+T7937A		T	A	7937	synonymous_variant
+A19012G		A	G	19012	synonymous_variant
+T29300C		T	C	29300	synonymous_variant
+T127C		T	C	127	upstream_gene_variant
+C241T		C	T	241	upstream_gene_variant
+C301T		C	T	301	missense_variant
+G476A		G	A	476	synonymous_variant
+A542G		A	G	542	
+T624C		T	C	624	
+T750G		T	G	750	missense_variant
+T1454C		T	C	1454	synonymous_variant
+T1514C		T	C	1514	
+C1833A		C	A	1833	missense_variant
+T2774C		T	C	2774	synonymous_variant
+A3276G		A	G	3276	missense_variant
+G3984A		G	A	3984	missense_variant
+A6169C		A	C	6169	missense_variant
+T6173C		T	C	6173	synonymous_variant
+C6286T		C	T	6286	missense_variant
+C8518T		C	T	8518	missense_variant
+G9395A		G	A	9395	synonymous_variant
+C13396T		C	T	13396	missense_variant
+G14716T		G	T	14716	synonymous_variant
+G18146A		G	A	18146	missense_variant
+G20017T		G	T	20017	missense_variant
+T21713C		T	C	21713	synonymous_variant
+C24191T		C	T	24191	synonymous_variant
+C24251T		C	T	24251	synonymous_variant
+T24296C		T	C	24296	synonymous_variant
+C24299T		C	T	24299	
+C24383T		C	T	24383	synonymous_variant
+C24863T		C	T	24863	synonymous_variant
+C25580T		C	T	25580	missense_variant
+A25768T		A	T	25768	synonymous_variant
+C25788T		C	T	25788	missense_variant
+G27067T		G	T	27067	synonymous_variant
+C27355T		C	T	27355	synonymous_variant
+T28219A		T	A	28219	missense_variant
+C28290T		C	T	28290	synonymous_variant
+T29714A		T	A	29714	
+C1832T		C	T	1832	synonymous_variant
+G2285A		G	A	2285	synonymous_variant
+C2582T		C	T	2582	synonymous_variant
+A4995G		A	G	4995	
+G5498T		G	T	5498	synonymous_variant
+G6476A		G	A	6476	synonymous_variant
+C7000T		C	T	7000	missense_variant
+C7079T		C	T	7079	synonymous_variant
+C7083T		C	T	7083	missense_variant
+T7598C		T	C	7598	synonymous_variant
+T12257C		T	C	12257	synonymous_variant
+C14707T		C	T	14707	synonymous_variant
+G17617A		G	A	17617	synonymous_variant
+T17975C		T	C	17975	synonymous_variant
+C18169T		C	T	18169	synonymous_variant
+T20252C		T	C	20252	missense_variant
+T23666C		T	C	23666	synonymous_variant
+G23732A		G	A	23732	synonymous_variant
+G26074T		G	T	26074	missense_variant
+G26477A		G	A	26477	missense_variant
+C26823T		C	T	26823	missense_variant
+A27910C		A	C	27910	missense_variant
+C28342T		C	T	28342	missense_variant
+C28873T		C	T	28873	missense_variant
+G6635T		G	T	6635	missense_variant
+C7001A		C	A	7001	synonymous_variant
+C7555T		C	T	7555	missense_variant
+T26109C		T	C	26109	missense_variant
+C7301T		C	T	7301	synonymous_variant
+T1853C		T	C	1853	synonymous_variant
+T4502A		T	A	4502	missense_variant
+T7376C		T	C	7376	synonymous_variant
+C7781T		C	T	7781	synonymous_variant
+C11639T		C	T	11639	synonymous_variant
+C12914T		C	T	12914	synonymous_variant
+T15442G		T	G	15442	synonymous_variant
+C17304T		C	T	17304	missense_variant
+G18972T		G	T	18972	missense_variant
+C20815T		C	T	20815	synonymous_variant
+G27123T		G	T	27123	missense_variant
+A18146G		A	G	18146	
+G18475A		G	A	18475	synonymous_variant
+C18679T		C	T	18679	synonymous_variant
+G19036T		G	T	19036	synonymous_variant
+A19075G		A	G	19075	
+G19418A		G	A	19418	missense_variant
+T20017G		T	G	20017	
+C2279T		C	T	2279	synonymous_variant
+G4704A		G	A	4704	missense_variant
+T7301C		T	C	7301	
+C7820T		C	T	7820	synonymous_variant
+G8717A		G	A	8717	synonymous_variant
+C9290T		C	T	9290	synonymous_variant
+G11069A		G	A	11069	synonymous_variant
+C12429T		C	T	12429	synonymous_variant
+C13401T		C	T	13401	synonymous_variant
+A13653T		A	T	13653	missense_variant
+A14689G		A	G	14689	synonymous_variant
+C16174T		C	T	16174	
+C16576T		C	T	16576	synonymous_variant
+T17788C		T	C	17788	synonymous_variant
+G18436T		G	T	18436	missense_variant
+T19999C		T	C	19999	
+G27502T		G	T	27502	synonymous_variant
+C10969T		C	T	10969	missense_variant
+A11775G		A	G	11775	missense_variant
+T15238C		T	C	15238	synonymous_variant
+A16834G		A	G	16834	synonymous_variant
+T17077C		T	C	17077	synonymous_variant
+C21974T		C	T	21974	synonymous_variant
+C23816T		C	T	23816	synonymous_variant
+T25580C		T	C	25580	
+T25618C		T	C	25618	synonymous_variant
+T25768A		T	A	25768	
+T25788C		T	C	25788	
+T7002A		T	A	7002	missense_variant
+G231T		G	T	231	upstream_gene_variant
+C1038T		C	T	1038	missense_variant
+T3153C		T	C	3153	missense_variant
+C10982T		C	T	10982	
+G11813A		G	A	11813	synonymous_variant
+G21430T		G	T	21430	synonymous_variant
+T21614C		T	C	21614	synonymous_variant
+T26333A		T	A	26333	missense_variant
+A27910C		A	C	27910	missense_variant
+G29495T		G	T	29495	synonymous_variant
+T15238C		T	C	15238	synonymous_variant
+C21974T		C	T	21974	synonymous_variant
+G28781C		G	C	28781	missense_variant
+G18124T		G	T	18124	synonymous_variant
+G21877A		G	A	21877	missense_variant
+C18727T		C	T	18727	synonymous_variant
+G19349T		G	T	19349	missense_variant
+G27885A		G	A	27885	synonymous_variant
+C7721T		C	T	7721	synonymous_variant
+G26155C		G	C	26155	missense_variant
+G2285A		G	A	2285	synonymous_variant
+T5256C		T	C	5256	synonymous_variant
+C5399T		C	T	5399	synonymous_variant
+C15238T		C	T	15238	
+T15865C		T	C	15865	synonymous_variant
+G15884T		G	T	15884	missense_variant
+C23597T		C	T	23597	synonymous_variant
+G25905T		G	T	25905	synonymous_variant
+T28618C		T	C	28618	missense_variant
+G4931A		G	A	4931	synonymous_variant
+C7755T		C	T	7755	synonymous_variant
+T9935C		T	C	9935	synonymous_variant
+G16703T		G	T	16703	missense_variant
+G21034T		G	T	21034	missense_variant
+A21738T		A	T	21738	missense_variant
+G26457T		G	T	26457	missense_variant
+G29555T		G	T	29555	synonymous_variant
+G455C		G	C	455	synonymous_variant
+G3276A		G	A	3276	
+T6286C		T	C	6286	
+C6666A		C	A	6666	missense_variant
+A7267G		A	G	7267	missense_variant
+G7729C		G	C	7729	missense_variant
+T8018A		T	A	8018	missense_variant
+G9537T		G	T	9537	missense_variant
+C11423T		C	T	11423	synonymous_variant
+A12603C		A	C	12603	missense_variant
+A12611C		A	C	12611	synonymous_variant
+G12625T		G	T	12625	missense_variant
+A12627G		A	G	12627	missense_variant
+T12649C		T	C	12649	missense_variant
+C18645T		C	T	18645	missense_variant
+A18658G		A	G	18658	synonymous_variant
+C19774T		C	T	19774	synonymous_variant
+T23940G		T	G	23940	missense_variant
+T24191C		T	C	24191	
+T26893C		T	C	26893	synonymous_variant
+G27104T		G	T	27104	missense_variant
+T797C		T	C	797	synonymous_variant
+C917T		C	T	917	synonymous_variant
+C1661A		C	A	1661	synonymous_variant
+A6254G		A	G	6254	synonymous_variant
+A8846G		A	G	8846	synonymous_variant
+A4586T		A	T	4586	missense_variant
+T6392C		T	C	6392	synonymous_variant
+T17644C		T	C	17644	synonymous_variant
+T18685C		T	C	18685	synonymous_variant
+C22079T		C	T	22079	synonymous_variant
+C28587T		C	T	28587	missense_variant
+T25283C		T	C	25283	synonymous_variant
+C1346T		C	T	1346	synonymous_variant
+C2336T		C	T	2336	synonymous_variant
+C23837T		C	T	23837	synonymous_variant
+G1636A		G	A	1636	missense_variant
+C3565A		C	A	3565	missense_variant
+G4944C		G	C	4944	missense_variant
+G6254A		G	A	6254	
+G7280T		G	T	7280	synonymous_variant
+T7913C		T	C	7913	synonymous_variant
+G8846A		G	A	8846	
+C17836T		C	T	17836	synonymous_variant
+C21739T		C	T	21739	missense_variant
+C21923T		C	T	21923	synonymous_variant
+C22166T		C	T	22166	synonymous_variant
+T22223C		T	C	22223	synonymous_variant
+G26158A		G	A	26158	missense_variant
+T26890C		T	C	26890	synonymous_variant
+G28102T		G	T	28102	missense_variant
+A4995G		A	G	4995	
+T9218C		T	C	9218	synonymous_variant
+C9408T		C	T	9408	missense_variant
+C9413T		C	T	9413	synonymous_variant
+C10775T		C	T	10775	synonymous_variant
+C11545T		C	T	11545	missense_variant
+C12947T		C	T	12947	synonymous_variant
+G17617A		G	A	17617	synonymous_variant
+T21073C		T	C	21073	synonymous_variant
+A21074T		A	T	21074	missense_variant
+T21265C		T	C	21265	synonymous_variant
+C28632A		C	A	28632	missense_variant
+G29253T		G	T	29253	missense_variant
+T470A		T	A	470	synonymous_variant
+C3644G		C	G	3644	missense_variant
+G12564A		G	A	12564	missense_variant
+G15835A		G	A	15835	synonymous_variant
+C16597T		C	T	16597	synonymous_variant
+A21385G		A	G	21385	synonymous_variant
+T27844C		T	C	27844	upstream_gene_variant
+C28775T		C	T	28775	missense_variant
+C797A		C	A	797	
+C6186T		C	T	6186	missense_variant
+A7211T		A	T	7211	synonymous_variant
+A10068G		A	G	10068	missense_variant
+G10970A		G	A	10970	synonymous_variant
+C18970T		C	T	18970	synonymous_variant
+T20986A		T	A	20986	synonymous_variant
+C22949T		C	T	22949	synonymous_variant
+G22980C		G	C	22980	missense_variant
+C26718T		C	T	26718	missense_variant
+C26876T		C	T	26876	synonymous_variant
+C581T		C	T	581	synonymous_variant
+C1429T		C	T	1429	missense_variant
+C3026T		C	T	3026	synonymous_variant
+G6167A		G	A	6167	synonymous_variant
+T7361C		T	C	7361	synonymous_variant
+G10487T		G	T	10487	missense_variant
+G10758A		G	A	10758	missense_variant
+C16480T		C	T	16480	synonymous_variant
+G17426A		G	A	17426	missense_variant
+C19969A		C	A	19969	synonymous_variant
+C22072T		C	T	22072	missense_variant
+G24197T		G	T	24197	missense_variant
+G24991T		G	T	24991	missense_variant
+T25405C		T	C	25405	missense_variant
+G26545T		G	T	26545	missense_variant
+C28587T		C	T	28587	missense_variant
+C29741T		C	T	29741	synonymous_variant
+C9992T		C	T	9992	synonymous_variant
+G14023T		G	T	14023	synonymous_variant
+T15238C		T	C	15238	synonymous_variant
+A1284G		A	G	1284	missense_variant
+A10486G		A	G	10486	missense_variant
+C11492T		C	T	11492	synonymous_variant
+T12738G		T	G	12738	missense_variant
+G17563T		G	T	17563	synonymous_variant
+T20017G		T	G	20017	
+G20089T		G	T	20089	missense_variant
+T23837C		T	C	23837	
+T24926C		T	C	24926	synonymous_variant
+C28072T		C	T	28072	synonymous_variant
+C29021T		C	T	29021	missense_variant
+C2189T		C	T	2189	synonymous_variant
+T7354C		T	C	7354	missense_variant
+C9692T		C	T	9692	synonymous_variant
+G1636A		G	A	1636	missense_variant
+C3565A		C	A	3565	missense_variant
+C4581T		C	T	4581	missense_variant
+C5245T		C	T	5245	missense_variant
+C5717T		C	T	5717	synonymous_variant
+A5723G		A	G	5723	synonymous_variant
+G10008T		G	T	10008	missense_variant
+C10615T		C	T	10615	missense_variant
+T12497C		T	C	12497	synonymous_variant
+G12701A		G	A	12701	synonymous_variant
+C14294T		C	T	14294	missense_variant
+C16319T		C	T	16319	missense_variant
+A17604T		A	T	17604	missense_variant
+G18475T		G	T	18475	synonymous_variant
+C19098T		C	T	19098	missense_variant
+C20874T		C	T	20874	missense_variant
+A21159G		A	G	21159	missense_variant
+C21277T		C	T	21277	synonymous_variant
+C21739T		C	T	21739	missense_variant
+C22628T		C	T	22628	synonymous_variant
+C23217A		C	A	23217	missense_variant
+C23584A		C	A	23584	missense_variant
+C24296T		C	T	24296	
+G26161C		G	C	26161	missense_variant
+A26778G		A	G	26778	missense_variant
+A27380G		A	G	27380	missense_variant
+G28102T		G	T	28102	missense_variant
+C28632A		C	A	28632	missense_variant
+G28745T		G	T	28745	synonymous_variant
+C28845T		C	T	28845	synonymous_variant
+G29187A		G	A	29187	missense_variant
+C127T		C	T	127	
+A3208G		A	G	3208	missense_variant
+C5568T		C	T	5568	missense_variant
+T7154C		T	C	7154	synonymous_variant
+C9956T		C	T	9956	synonymous_variant
+C10994T		C	T	10994	synonymous_variant
+T11927C		T	C	11927	synonymous_variant
+G20963A		G	A	20963	missense_variant
+T23303C		T	C	23303	synonymous_variant
+T24632C		T	C	24632	synonymous_variant
+C24722T		C	T	24722	synonymous_variant
+C25714T		C	T	25714	synonymous_variant
+C28212T		C	T	28212	synonymous_variant
+A9721G		A	G	9721	missense_variant
+C29008T		C	T	29008	missense_variant
+C11631T		C	T	11631	missense_variant
+A19075G		A	G	19075	
+C23303T		C	T	23303	
+T24383C		T	C	24383	
+C26109T		C	T	26109	
+T6286C		T	C	6286	
+A21864C		A	C	21864	missense_variant
+G23043C		G	C	23043	missense_variant
+A25968T		A	T	25968	synonymous_variant
+A3984G		A	G	3984	
+C6169A		C	A	6169	
+C6173T		C	T	6173	
+T12425C		T	C	12425	
+T23041C		T	C	23041	missense_variant
+G21549A		G	A	21549	missense_variant
+A21864C		A	C	21864	missense_variant
+G23043C		G	C	23043	missense_variant
+G24078A		G	A	24078	missense_variant
+G6126C		G	C	6126	missense_variant
+G8995T		G	T	8995	missense_variant
+C21638G		C	G	21638	synonymous_variant
+C5373T		C	T	5373	synonymous_variant
+T7181C		T	C	7181	synonymous_variant
+G5852A		G	A	5852	synonymous_variant
+C7933T		C	T	7933	missense_variant
+A24622G		A	G	24622	missense_variant
+A22984G		A	G	22984	missense_variant
+A2917G		A	G	2917	missense_variant
+C21726T		C	T	21726	missense_variant
+C25903T		C	T	25903	missense_variant
+C25495T		C	T	25495	missense_variant
+C22356T		C	T	22356	missense_variant
+C11257T		C	T	11257	missense_variant
+T23041C		T	C	23041	missense_variant
+C5917T		C	T	5917	missense_variant
+A20411T		A	T	20411	missense_variant
+G18916A		G	A	18916	synonymous_variant
+A10089G		A	G	10089	missense_variant
+T26979C		T	C	26979	missense_variant
+T132C		T	C	132	upstream_gene_variant
+G626T		G	T	626	synonymous_variant
+T1430C		T	C	1430	synonymous_variant
+G4944C		G	C	4944	missense_variant
+C7301T		C	T	7301	synonymous_variant
+T7913C		T	C	7913	synonymous_variant
+G10758A		G	A	10758	missense_variant
+G12564A		G	A	12564	missense_variant
+C28632A		C	A	28632	missense_variant
+G28745T		G	T	28745	synonymous_variant
+C2858A		C	A	2858	synonymous_variant
+C11631T		C	T	11631	missense_variant
+G12974T		G	T	12974	synonymous_variant
+G15835A		G	A	15835	synonymous_variant
+C16597T		C	T	16597	synonymous_variant
+C17836T		C	T	17836	synonymous_variant
+A19664G		A	G	19664	missense_variant
+G19699T		G	T	19699	missense_variant
+T19855C		T	C	19855	synonymous_variant
+T20026C		T	C	20026	synonymous_variant
+G21943T		G	T	21943	missense_variant
+G23009T		G	T	23009	synonymous_variant
+G24014T		G	T	24014	synonymous_variant
+T25292C		T	C	25292	synonymous_variant
+C26245T		C	T	26245	synonymous_variant
+G26457T		G	T	26457	missense_variant
+G27196T		G	T	27196	synonymous_variant
+C3370T		C	T	3370	missense_variant
+G4043A		G	A	4043	synonymous_variant
+T15604C		T	C	15604	synonymous_variant
+C16285T		C	T	16285	synonymous_variant
+G17617A		G	A	17617	synonymous_variant
+G18239T		G	T	18239	missense_variant
+C19105T		C	T	19105	synonymous_variant
+T22190C		T	C	22190	synonymous_variant
+G22570C		G	C	22570	missense_variant
+C23837T		C	T	23837	synonymous_variant
+C26124T		C	T	26124	missense_variant
+C26191T		C	T	26191	synonymous_variant
+T26890C		T	C	26890	synonymous_variant
+G28102T		G	T	28102	missense_variant
+G29432T		G	T	29432	missense_variant
+C11631T		C	T	11631	missense_variant
+A18589T		A	T	18589	synonymous_variant
+C9518A		C	A	9518	synonymous_variant
+C132T		C	T	132	
+C2279T		C	T	2279	synonymous_variant
+G17617A		G	A	17617	synonymous_variant
+T2042C		T	C	2042	synonymous_variant
+T2564G		T	G	2564	missense_variant
+C5158T		C	T	5158	missense_variant
+G26163T		G	T	26163	missense_variant
+G26825T		G	T	26825	stop_gained
+C28212T		C	T	28212	synonymous_variant
+C1534T		C	T	1534	missense_variant
+A7706G		A	G	7706	synonymous_variant
+C9408T		C	T	9408	missense_variant
+T12401G		T	G	12401	missense_variant
+T13543C		T	C	13543	synonymous_variant
+A16986G		A	G	16986	missense_variant
+C21523T		C	T	21523	missense_variant
+C21572T		C	T	21572	synonymous_variant
+C23066T		C	T	23066	synonymous_variant
+G23291T		G	T	23291	synonymous_variant
+G24548T		G	T	24548	missense_variant
+C25975T		C	T	25975	missense_variant
+C26680T		C	T	26680	synonymous_variant
+G29747T		G	T	29747	missense_variant
+G9893A		G	A	9893	missense_variant
+T22975G		T	G	22975	missense_variant
+A2020G		A	G	2020	missense_variant
+A2758G		A	G	2758	missense_variant
+G3275T		G	T	3275	missense_variant
+C3432T		C	T	3432	missense_variant
+C5652A		C	A	5652	missense_variant
+C6059A		C	A	6059	
+T8153C		T	C	8153	synonymous_variant
+C10499T		C	T	10499	synonymous_variant
+T14293C		T	C	14293	synonymous_variant
+C1748T		C	T	1748	synonymous_variant
+A3090T		A	T	3090	missense_variant
+T3647C		T	C	3647	synonymous_variant
+C8329T		C	T	8329	missense_variant
+G14182A		G	A	14182	synonymous_variant
+T14575C		T	C	14575	synonymous_variant
+C14842T		C	T	14842	synonymous_variant
+C16285T		C	T	16285	synonymous_variant
+G16639T		G	T	16639	synonymous_variant
+G18752A		G	A	18752	missense_variant
+T22190C		T	C	22190	synonymous_variant
+A22592C		A	C	22592	missense_variant
+G22995T		G	T	22995	missense_variant
+G23831T		G	T	23831	missense_variant
+G24548T		G	T	24548	missense_variant
+T27439C		T	C	27439	synonymous_variant
+C27826T		C	T	27826	synonymous_variant
+C28772T		C	T	28772	
+T29501C		T	C	29501	synonymous_variant
+G14156A		G	A	14156	missense_variant
+T14224C		T	C	14224	synonymous_variant
+C16597T		C	T	16597	synonymous_variant
+G25715T		G	T	25715	missense_variant
+G28102T		G	T	28102	missense_variant
+C28632A		C	A	28632	missense_variant
+G28745T		G	T	28745	synonymous_variant
+T17077C		T	C	17077	synonymous_variant
+G17650T		G	T	17650	synonymous_variant
+G18239T		G	T	18239	missense_variant
+T20308C		T	C	20308	synonymous_variant
+G21266T		G	T	21266	missense_variant
+C21744T		C	T	21744	missense_variant
+T22190C		T	C	22190	synonymous_variant
+T22873C		T	C	22873	missense_variant
+A24575G		A	G	24575	synonymous_variant
+G26157T		G	T	26157	missense_variant
+G27196T		G	T	27196	synonymous_variant
+C1262T		C	T	1262	synonymous_variant
+C1334T		C	T	1334	synonymous_variant
+G4944A		G	A	4944	missense_variant
+C6178T		C	T	6178	missense_variant
+A17617G		A	G	17617	
+C17836T		C	T	17836	synonymous_variant
+C18652T		C	T	18652	synonymous_variant
+G21822T		G	T	21822	missense_variant
+T22223C		T	C	22223	synonymous_variant
+G23543T		G	T	23543	missense_variant
+C23837T		C	T	23837	synonymous_variant
+A27928G		A	G	27928	missense_variant
+C27424T		C	T	27424	synonymous_variant
+G3915T		G	T	3915	missense_variant
+C24931T		C	T	24931	missense_variant
+C27052T		C	T	27052	synonymous_variant
+C9550T		C	T	9550	missense_variant
+T13396C		T	C	13396	
+T14716G		T	G	14716	
+C16222T		C	T	16222	synonymous_variant
+A16834G		A	G	16834	synonymous_variant
+T17077C		T	C	17077	synonymous_variant
+G3482T		G	T	3482	synonymous_variant
+C5652A		C	A	5652	missense_variant
+C6056A		C	A	6056	synonymous_variant
+C6059A		C	A	6059	
+T1430C		T	C	1430	synonymous_variant
+T3563C		T	C	3563	synonymous_variant
+C4265T		C	T	4265	synonymous_variant
+C4775T		C	T	4775	synonymous_variant
+C5500T		C	T	5500	missense_variant
+C17836T		C	T	17836	synonymous_variant
+C24350A		C	A	24350	synonymous_variant
+T25255C		T	C	25255	missense_variant
+C25860T		C	T	25860	synonymous_variant
+G26155C		G	C	26155	missense_variant
+C26194T		C	T	26194	synonymous_variant
+G26545C		G	C	26545	missense_variant
+T29098C		T	C	29098	missense_variant
+G29657A		G	A	29657	synonymous_variant
+C132T		C	T	132	
+C488T		C	T	488	synonymous_variant
+T1433G		T	G	1433	synonymous_variant
+A2020G		A	G	2020	missense_variant
+C2279T		C	T	2279	synonymous_variant
+G3275T		G	T	3275	missense_variant
+C4680T		C	T	4680	missense_variant
+C4850T		C	T	4850	synonymous_variant
+G10154A		G	A	10154	synonymous_variant
+G10770A		G	A	10770	missense_variant
+C13793T		C	T	13793	missense_variant
+C17959T		C	T	17959	synonymous_variant
+A18146G		A	G	18146	
+C19590T		C	T	19590	missense_variant
+T20017G		T	G	20017	
+C20092T		C	T	20092	synonymous_variant
+C21739T		C	T	21739	missense_variant
+T22659C		T	C	22659	synonymous_variant
+C23573T		C	T	23573	synonymous_variant
+C23837T		C	T	23837	synonymous_variant
+C26398T		C	T	26398	synonymous_variant
+C26649A		C	A	26649	missense_variant
+G28102T		G	T	28102	missense_variant
+C28632A		C	A	28632	missense_variant
+G28745T		G	T	28745	synonymous_variant
+T28769C		T	C	28769	missense_variant
+A29287G		A	G	29287	missense_variant
+C29738T		C	T	29738	synonymous_variant
+C11102T		C	T	11102	synonymous_variant
+C19016T		C	T	19016	missense_variant
+C19590T		C	T	19590	missense_variant
+T20017G		T	G	20017	
+C20092T		C	T	20092	synonymous_variant
+C21713T		C	T	21713	
+T22137C		T	C	22137	missense_variant
+T22873C		T	C	22873	missense_variant
+C23066T		C	T	23066	synonymous_variant
+T24383C		T	C	24383	
+G25715T		G	T	25715	missense_variant
+T26716C		T	C	26716	
+T626G		T	G	626	
+C1175T		C	T	1175	synonymous_variant
+C1382T		C	T	1382	synonymous_variant
+T24443C		T	C	24443	synonymous_variant
+G28102T		G	T	28102	missense_variant
+C28632A		C	A	28632	missense_variant
+G28745T		G	T	28745	synonymous_variant
+A1621G		A	G	1621	missense_variant
+T2324C		T	C	2324	synonymous_variant
+T2456C		T	C	2456	
+T2696C		T	C	2696	synonymous_variant
+C3397T		C	T	3397	missense_variant
+C3412T		C	T	3412	missense_variant
+T3846C		T	C	3846	synonymous_variant
+G3882A		G	A	3882	missense_variant
+A5782C		A	C	5782	missense_variant
+G8540A		G	A	8540	synonymous_variant
+A9518C		A	C	9518	
+T9550C		T	C	9550	
+C11447T		C	T	11447	synonymous_variant
+C25102T		C	T	25102	missense_variant
+G27534A		G	A	27534	upstream_gene_variant
+T1127C		T	C	1127	synonymous_variant
+C2263T		C	T	2263	missense_variant
+G3219A		G	A	3219	missense_variant
+T3431C		T	C	3431	synonymous_variant
+C3574G		C	G	3574	missense_variant
+A3785G		A	G	3785	synonymous_variant
+G4401A		G	A	4401	missense_variant
+C4775T		C	T	4775	synonymous_variant
+C5033T		C	T	5033	synonymous_variant
+C5568T		C	T	5568	missense_variant
+C5652A		C	A	5652	missense_variant
+C6056A		C	A	6056	synonymous_variant
+C6059A		C	A	6059	
+T6587C		T	C	6587	synonymous_variant
+G6903A		G	A	6903	missense_variant
+G7406T		G	T	7406	synonymous_variant
+T9143C		T	C	9143	synonymous_variant
+C9290T		C	T	9290	synonymous_variant
+C12947T		C	T	12947	synonymous_variant
+G13907A		G	A	13907	missense_variant
+T15544C		T	C	15544	synonymous_variant
+C16246T		C	T	16246	synonymous_variant
+C16956T		C	T	16956	missense_variant
+T18787C		T	C	18787	synonymous_variant
+T19864C		T	C	19864	synonymous_variant
+T22022C		T	C	22022	synonymous_variant
+C24557T		C	T	24557	synonymous_variant
+G25670T		G	T	25670	missense_variant
+T25977C		T	C	25977	synonymous_variant
+C27113T		C	T	27113	missense_variant
+C28946T		C	T	28946	missense_variant
+G112T		G	T	112	upstream_gene_variant
+T1430C		T	C	1430	synonymous_variant
+C1982T		C	T	1982	synonymous_variant
+C2129T		C	T	2129	synonymous_variant
+C2219T		C	T	2219	synonymous_variant
+C3349T		C	T	3349	missense_variant
+C3364T		C	T	3364	missense_variant
+G3645A		G	A	3645	missense_variant
+C4522A		C	A	4522	missense_variant
+G4944C		G	C	4944	missense_variant
+C5802A		C	A	5802	missense_variant
+C6293T		C	T	6293	
+G6488A		G	A	6488	synonymous_variant
+C6541T		C	T	6541	missense_variant
+G6604A		G	A	6604	missense_variant
+C7301T		C	T	7301	synonymous_variant
+G7611A		G	A	7611	missense_variant
+T7913C		T	C	7913	synonymous_variant
+T9143C		T	C	9143	synonymous_variant
+G10488A		G	A	10488	missense_variant
+C12362T		C	T	12362	synonymous_variant
+C15041T		C	T	15041	synonymous_variant
+C17101T		C	T	17101	synonymous_variant
+G17945A		G	A	17945	missense_variant
+A18146G		A	G	18146	
+T18271C		T	C	18271	synonymous_variant
+T21557C		T	C	21557	synonymous_variant
+T21831G		T	G	21831	missense_variant
+C23688T		C	T	23688	missense_variant
+T24698C		T	C	24698	synonymous_variant
+T26755C		T	C	26755	synonymous_variant
+T29098C		T	C	29098	missense_variant
+T29366C		T	C	29366	synonymous_variant
+C3665T		C	T	3665	synonymous_variant
+A4240G		A	G	4240	missense_variant
+C18291T		C	T	18291	missense_variant
+G20837A		G	A	20837	missense_variant
+C9238T		C	T	9238	missense_variant
+A276T		A	T	276	upstream_gene_variant
+A2191G		A	G	2191	missense_variant
+C6059T		C	T	6059	
+C1175T		C	T	1175	synonymous_variant
+T2456C		T	C	2456	
+T2696C		T	C	2696	synonymous_variant
+C3397T		C	T	3397	missense_variant
+C3412T		C	T	3412	missense_variant
+A5782C		A	C	5782	missense_variant
+C5432T		C	T	5432	synonymous_variant
+C9518A		C	A	9518	synonymous_variant
+T9884C		T	C	9884	synonymous_variant
+G17617A		G	A	17617	synonymous_variant
+C28597T		C	T	28597	missense_variant
+G29414T		G	T	29414	missense_variant
+C11631T		C	T	11631	missense_variant
+T777G		T	G	777	missense_variant
+G9628A		G	A	9628	missense_variant
+A13942G		A	G	13942	synonymous_variant
+G16361A		G	A	16361	missense_variant
+T16929C		T	C	16929	missense_variant
+T16954C		T	C	16954	synonymous_variant
+C25364T		C	T	25364	synonymous_variant
+C29409A		C	A	29409	missense_variant
+C29464T		C	T	29464	missense_variant
+A1925G		A	G	1925	synonymous_variant
+G3360A		G	A	3360	missense_variant
+G16361A		G	A	16361	missense_variant
+C27508T		C	T	27508	synonymous_variant
+G4628A		G	A	4628	synonymous_variant
+A14032C		A	C	14032	synonymous_variant
+T27863C		T	C	27863	missense_variant
+G5726A		G	A	5726	synonymous_variant
+C7125T		C	T	7125	missense_variant
+G29235A		G	A	29235	missense_variant
+G26155A		G	A	26155	missense_variant
+A9457C		A	C	9457	missense_variant
+A3493G		A	G	3493	missense_variant
+A6921G		A	G	6921	missense_variant
+A12118G		A	G	12118	missense_variant
+A19379G		A	G	19379	missense_variant
+C28017T		C	T	28017	synonymous_variant
+C2185T		C	T	2185	missense_variant
+C25814T		C	T	25814	missense_variant
+C2312T		C	T	2312	synonymous_variant
+C25136T		C	T	25136	synonymous_variant
+T120G		T	G	120	upstream_gene_variant
+A23338G		A	G	23338	missense_variant
+C26809T		C	T	26809	synonymous_variant
+C23897T		C	T	23897	synonymous_variant
+T29528C		T	C	29528	synonymous_variant
+A4439G		A	G	4439	synonymous_variant
+G5250A		G	A	5250	missense_variant
+G18172A		G	A	18172	synonymous_variant
+A27108G		A	G	27108	missense_variant
+G26267C		G	C	26267	missense_variant
+A238G		A	G	238	upstream_gene_variant
+T239G		T	G	239	upstream_gene_variant
+A240G		A	G	240	upstream_gene_variant
+T241G		T	G	241	
+T10388C		T	C	10388	synonymous_variant
+C19435T		C	T	19435	synonymous_variant
+A4996G		A	G	4996	
+A11889G		A	G	11889	missense_variant
+A3467C		A	C	3467	missense_variant
+G4737C		G	C	4737	missense_variant
+C7728A		C	A	7728	synonymous_variant
+C14162T		C	T	14162	synonymous_variant
+G15835A		G	A	15835	synonymous_variant
+C16597T		C	T	16597	synonymous_variant
+C17836T		C	T	17836	synonymous_variant
+C1567T		C	T	1567	missense_variant
+C1937T		C	T	1937	synonymous_variant
+G3692T		G	T	3692	synonymous_variant
+C6642T		C	T	6642	synonymous_variant
+C16174T		C	T	16174	
+C16690T		C	T	16690	synonymous_variant
+C22090T		C	T	22090	missense_variant
+G24014T		G	T	24014	synonymous_variant
+G24242T		G	T	24242	synonymous_variant
+C25102T		C	T	25102	missense_variant
+G25203A		G	A	25203	missense_variant
+T25292C		T	C	25292	synonymous_variant
+C25558T		C	T	25558	synonymous_variant
+T26028C		T	C	26028	synonymous_variant
+C26168T		C	T	26168	missense_variant
+C26309T		C	T	26309	missense_variant
+C26390T		C	T	26390	synonymous_variant
+G26457C		G	C	26457	missense_variant
+C26905T		C	T	26905	synonymous_variant
+G27463T		G	T	27463	synonymous_variant
+C27930A		C	A	27930	synonymous_variant
+C1382T		C	T	1382	synonymous_variant
+G3882A		G	A	3882	missense_variant
+T9740C		T	C	9740	synonymous_variant
+C11631T		C	T	11631	missense_variant
+C20525T		C	T	20525	missense_variant
+C21739T		C	T	21739	missense_variant
+C21923T		C	T	21923	synonymous_variant
+T22223C		T	C	22223	synonymous_variant
+C23837T		C	T	23837	synonymous_variant
+C24602A		C	A	24602	synonymous_variant
+T24904C		T	C	24904	missense_variant
+G24992T		G	T	24992	missense_variant
+T26890C		T	C	26890	synonymous_variant
+G28102T		G	T	28102	missense_variant
+C28632A		C	A	28632	missense_variant
+A22981G		A	G	22981	missense_variant
+G27833T		G	T	27833	missense_variant
+G26267T		G	T	26267	missense_variant
+G15985A		G	A	15985	synonymous_variant
+T22742C		T	C	22742	synonymous_variant
+A22886T		A	T	22886	synonymous_variant
+T3846C		T	C	3846	synonymous_variant
+T10703C		T	C	10703	synonymous_variant
+T13181C		T	C	13181	synonymous_variant
+C13501T		C	T	13501	synonymous_variant
+T15796A		T	A	15796	synonymous_variant
+C21782A		C	A	21782	synonymous_variant
+T22646C		T	C	22646	synonymous_variant
+C23217A		C	A	23217	missense_variant
+C23837T		C	T	23837	synonymous_variant
+C24296T		C	T	24296	
+T24914C		T	C	24914	synonymous_variant
+G26161C		G	C	26161	missense_variant
+C28775T		C	T	28775	missense_variant
+T29098C		T	C	29098	missense_variant
+G29657A		G	A	29657	synonymous_variant
+T24698C		T	C	24698	synonymous_variant
+G25715T		G	T	25715	missense_variant
+G26665T		G	T	26665	synonymous_variant
+T26926C		T	C	26926	synonymous_variant
+C770T		C	T	770	synonymous_variant
+C881T		C	T	881	synonymous_variant
+C1199T		C	T	1199	synonymous_variant
+T2281A		T	A	2281	missense_variant
+G2996T		G	T	2996	missense_variant
+T3161C		T	C	3161	synonymous_variant
+T3542C		T	C	3542	synonymous_variant
+C3845T		C	T	3845	synonymous_variant
+T3926C		T	C	3926	synonymous_variant
+C4196T		C	T	4196	synonymous_variant
+A4792G		A	G	4792	missense_variant
+A5024G		A	G	5024	synonymous_variant
+C5025T		C	T	5025	missense_variant
+G5277A		G	A	5277	missense_variant
+G5501T		G	T	5501	synonymous_variant
+C5568T		C	T	5568	missense_variant
+A5693G		A	G	5693	synonymous_variant
+G7319T		G	T	7319	synonymous_variant
+G7370T		G	T	7370	missense_variant
+A7851T		A	T	7851	missense_variant
+C9455T		C	T	9455	synonymous_variant
+G10353A		G	A	10353	missense_variant
+C10655T		C	T	10655	synonymous_variant
+C10862T		C	T	10862	synonymous_variant
+C11000A		C	A	11000	synonymous_variant
+C11102T		C	T	11102	synonymous_variant
+G11393C		G	C	11393	missense_variant
+C11447T		C	T	11447	synonymous_variant
+A11939T		A	T	11939	synonymous_variant
+T12992A		T	A	12992	synonymous_variant
+A15034C		A	C	15034	missense_variant
+A15106G		A	G	15106	synonymous_variant
+C15193T		C	T	15193	synonymous_variant
+G15856A		G	A	15856	synonymous_variant
+T16345G		T	G	16345	synonymous_variant
+T16597C		T	C	16597	
+G16636A		G	A	16636	synonymous_variant
+C16804T		C	T	16804	
+T17926C		T	C	17926	synonymous_variant
+T18454C		T	C	18454	synonymous_variant
+G19204A		G	A	19204	synonymous_variant
+G19601T		G	T	19601	missense_variant
+C20130T		C	T	20130	missense_variant
+T21764C		T	C	21764	synonymous_variant
+C22871T		C	T	22871	synonymous_variant
+T24383C		T	C	24383	
+C24830T		C	T	24830	synonymous_variant
+G25707C		G	C	25707	missense_variant
+T26683C		T	C	26683	synonymous_variant
+A27146G		A	G	27146	missense_variant
+A27870T		A	T	27870	missense_variant
+C28018T		C	T	28018	synonymous_variant
+G28102T		G	T	28102	missense_variant
+C28342T		C	T	28342	missense_variant
+C28632A		C	A	28632	missense_variant
+C28740T		C	T	28740	missense_variant
+G28745T		G	T	28745	synonymous_variant
+C29098T		C	T	29098	
+C29161G		C	G	29161	missense_variant
+C29279T		C	T	29279	synonymous_variant
+A29657G		A	G	29657	
+T1127C		T	C	1127	synonymous_variant
+C2185T		C	T	2185	missense_variant
+G4715T		G	T	4715	synonymous_variant
+G7406A		G	A	7406	synonymous_variant
+C7460T		C	T	7460	synonymous_variant
+C8159T		C	T	8159	synonymous_variant
+T9740C		T	C	9740	synonymous_variant
+C11081T		C	T	11081	synonymous_variant
+C11631T		C	T	11631	missense_variant
+A17827G		A	G	17827	synonymous_variant
+G18365T		G	T	18365	missense_variant
+G20522T		G	T	20522	missense_variant
+A21881G		A	G	21881	synonymous_variant
+C22054A		C	A	22054	missense_variant
+C22250T		C	T	22250	synonymous_variant
+C10010T		C	T	10010	synonymous_variant
+A19976G		A	G	19976	missense_variant
+T22354C		T	C	22354	missense_variant
+C2943T		C	T	2943	missense_variant
+A22613G		A	G	22613	synonymous_variant
+C25860T		C	T	25860	synonymous_variant
+G26155C		G	C	26155	missense_variant
+C1388T		C	T	1388	synonymous_variant
+G2006C		G	C	2006	synonymous_variant
+C2312T		C	T	2312	synonymous_variant
+C5568T		C	T	5568	missense_variant
+C5972T		C	T	5972	synonymous_variant
+G6903A		G	A	6903	missense_variant
+C7701T		C	T	7701	missense_variant
+C8015T		C	T	8015	synonymous_variant
+A9983G		A	G	9983	synonymous_variant
+C11249T		C	T	11249	synonymous_variant
+T12644C		T	C	12644	synonymous_variant
+T14614C		T	C	14614	synonymous_variant
+T16471A		T	A	16471	synonymous_variant
+T17926C		T	C	17926	synonymous_variant
+C18178T		C	T	18178	synonymous_variant
+G19598T		G	T	19598	missense_variant
+C22871T		C	T	22871	synonymous_variant
+C25599T		C	T	25599	missense_variant
+G25715T		G	T	25715	missense_variant
+C26327T		C	T	26327	missense_variant
+C26455T		C	T	26455	synonymous_variant
+C27670T		C	T	27670	synonymous_variant
+C28232T		C	T	28232	missense_variant
+A8093T		A	T	8093	synonymous_variant
+T24555G		T	G	24555	missense_variant
+C11631T		C	T	11631	missense_variant
+C3845T		C	T	3845	synonymous_variant
+G18365T		G	T	18365	missense_variant
+C8390T		C	T	8390	synonymous_variant
+T11073C		T	C	11073	missense_variant
+C12626T		C	T	12626	synonymous_variant
+C15847T		C	T	15847	synonymous_variant
+C16480T		C	T	16480	synonymous_variant
+T22733G		T	G	22733	missense_variant
+A23653G		A	G	23653	missense_variant
+C25102T		C	T	25102	missense_variant
+T1904C		T	C	1904	synonymous_variant
+C2224T		C	T	2224	missense_variant
+C2607T		C	T	2607	missense_variant
+G4406T		G	T	4406	synonymous_variant
+C8502T		C	T	8502	missense_variant
+G9629A		G	A	9629	synonymous_variant
+T16929C		T	C	16929	missense_variant
+C18727T		C	T	18727	synonymous_variant
+G19753A		G	A	19753	synonymous_variant
+A20740G		A	G	20740	synonymous_variant
+T23112C		T	C	23112	missense_variant
+G23554T		G	T	23554	missense_variant
+T23669G		T	G	23669	synonymous_variant
+T24956C		T	C	24956	synonymous_variant
+C26309A		C	A	26309	missense_variant
+T26926C		T	C	26926	synonymous_variant
+C27058T		C	T	27058	synonymous_variant
+A27211C		A	C	27211	synonymous_variant
+T29330C		T	C	29330	synonymous_variant
+C29464T		C	T	29464	missense_variant
+T196C		T	C	196	upstream_gene_variant
+G9628A		G	A	9628	missense_variant
+T9637A		T	A	9637	missense_variant
+T15308A		T	A	15308	missense_variant
+G15358T		G	T	15358	missense_variant
+G15359T		G	T	15359	missense_variant
+G15363A		G	A	15363	missense_variant
+G15458C		G	C	15458	missense_variant
+A24302C		A	C	24302	synonymous_variant
+T24303A		T	A	24303	missense_variant
+T29408G		T	G	29408	synonymous_variant
+A16955T		A	T	16955	missense_variant
+T1127C		T	C	1127	synonymous_variant
+C2456T		C	T	2456	
+C2696T		C	T	2696	
+G3219A		G	A	3219	missense_variant
+T3397C		T	C	3397	
+T3412C		T	C	3412	
+T3431C		T	C	3431	synonymous_variant
+C3574G		C	G	3574	missense_variant
+A3785G		A	G	3785	synonymous_variant
+A3882G		A	G	3882	
+G4401A		G	A	4401	missense_variant
+G4662A		G	A	4662	missense_variant
+C5782A		C	A	5782	
+C6189T		C	T	6189	missense_variant
+T6635G		T	G	6635	
+T9740C		T	C	9740	synonymous_variant
+C1020T		C	T	1020	synonymous_variant
+A4041G		A	G	4041	missense_variant
+C5568T		C	T	5568	missense_variant
+T21627C		T	C	21627	missense_variant
+C22090T		C	T	22090	missense_variant
+C22742T		C	T	22742	
+T22886A		T	A	22886	
+T15784C		T	C	15784	synonymous_variant
+T17926C		T	C	17926	synonymous_variant
+C18079T		C	T	18079	
+G19204A		G	A	19204	synonymous_variant
+T21764C		T	C	21764	synonymous_variant
+C1882T		C	T	1882	missense_variant
+G2198A		G	A	2198	missense_variant
+T3872C		T	C	3872	synonymous_variant
+A4995G		A	G	4995	
+A5530G		A	G	5530	missense_variant
+C9410T		C	T	9410	synonymous_variant
+C10421A		C	A	10421	synonymous_variant
+C10796T		C	T	10796	synonymous_variant
+T10980G		T	G	10980	missense_variant
+C18415A		C	A	18415	
+C21304T		C	T	21304	synonymous_variant
+G22459C		G	C	22459	missense_variant
+T23206C		T	C	23206	missense_variant
+G23286A		G	A	23286	missense_variant
+G23291A		G	A	23291	synonymous_variant
+G24515T		G	T	24515	missense_variant
+G24633T		G	T	24633	missense_variant
+C25295T		C	T	25295	synonymous_variant
+G25536T		G	T	25536	missense_variant
+G25659T		G	T	25659	missense_variant
+C25903T		C	T	25903	missense_variant
+A26520T		A	T	26520	missense_variant
+C27058T		C	T	27058	synonymous_variant
+A27211C		A	C	27211	synonymous_variant
+G28941C		G	C	28941	missense_variant
+T29330C		T	C	29330	synonymous_variant
+T653A		T	A	653	synonymous_variant
+C2185T		C	T	2185	missense_variant
+G3275C		G	C	3275	missense_variant
+C5441T		C	T	5441	synonymous_variant
+C5954T		C	T	5954	synonymous_variant
+C9572A		C	A	9572	missense_variant
+C9580A		C	A	9580	missense_variant
+G15326C		G	C	15326	missense_variant
+T15493A		T	A	15493	missense_variant
+T16929C		T	C	16929	missense_variant
+A16955T		A	T	16955	missense_variant
+A18146G		A	G	18146	
+T19381G		T	G	19381	missense_variant
+G19568T		G	T	19568	missense_variant
+T21256C		T	C	21256	synonymous_variant
+C22871T		C	T	22871	synonymous_variant
+C24860T		C	T	24860	synonymous_variant
+C25136T		C	T	25136	synonymous_variant
+G25785A		G	A	25785	missense_variant
+C25787T		C	T	25787	missense_variant
+C25791A		C	A	25791	missense_variant
+T26344C		T	C	26344	synonymous_variant
+T26821G		T	G	26821	missense_variant
+A27133G		A	G	27133	missense_variant
+G27463T		G	T	27463	synonymous_variant
+T28008A		T	A	28008	synonymous_variant
+C28232T		C	T	28232	missense_variant
+G28648T		G	T	28648	missense_variant
+T29291A		T	A	29291	missense_variant
+T29353C		T	C	29353	missense_variant
+C29464T		C	T	29464	missense_variant
+T4388A		T	A	4388	
+G15166T		G	T	15166	synonymous_variant
+G25545T		G	T	25545	missense_variant
+T6784C		T	C	6784	missense_variant
+C11631T		C	T	11631	missense_variant
+C22726T		C	T	22726	missense_variant
+C27059T		C	T	27059	missense_variant
+C5500A		C	A	5500	missense_variant
+C22871T		C	T	22871	synonymous_variant
+C24860T		C	T	24860	synonymous_variant
+C517T		C	T	517	missense_variant
+A1135T		A	T	1135	missense_variant
+G7779A		G	A	7779	missense_variant
+C23279A		C	A	23279	synonymous_variant
+C24659T		C	T	24659	synonymous_variant
+C2153T		C	T	2153	synonymous_variant
+G10031A		G	A	10031	synonymous_variant
+A19791G		A	G	19791	missense_variant
+T24383C		T	C	24383	
+T24698C		T	C	24698	synonymous_variant
+G25715T		G	T	25715	missense_variant
+T25860C		T	C	25860	
+C26155G		C	G	26155	
+G26665T		G	T	26665	synonymous_variant
+T26926C		T	C	26926	synonymous_variant
+C2794T		C	T	2794	missense_variant
+C5271T		C	T	5271	missense_variant
+G5790A		G	A	5790	missense_variant
+G12962T		G	T	12962	synonymous_variant
+A14108G		A	G	14108	missense_variant
+G17089T		G	T	17089	synonymous_variant
+G17647T		G	T	17647	synonymous_variant
+G19108A		G	A	19108	missense_variant
+T20998C		T	C	20998	synonymous_variant
+C581T		C	T	581	synonymous_variant
+C1169T		C	T	1169	synonymous_variant
+C2471T		C	T	2471	synonymous_variant
+C2958T		C	T	2958	missense_variant
+C6437T		C	T	6437	synonymous_variant
+A6662G		A	G	6662	synonymous_variant
+C8825T		C	T	8825	synonymous_variant
+C9245T		C	T	9245	synonymous_variant
+C11612T		C	T	11612	synonymous_variant
+C11672T		C	T	11672	synonymous_variant
+A12680G		A	G	12680	synonymous_variant
+C13346T		C	T	13346	synonymous_variant
+C14665T		C	T	14665	synonymous_variant
+C15646T		C	T	15646	synonymous_variant
+C15847T		C	T	15847	synonymous_variant
+C20782T		C	T	20782	synonymous_variant
+G22357T		G	T	22357	missense_variant
+T22919C		T	C	22919	synonymous_variant
+C24573T		C	T	24573	synonymous_variant
+C24893G		C	G	24893	missense_variant
+C25225T		C	T	25225	missense_variant
+C26431T		C	T	26431	synonymous_variant
+C27730T		C	T	27730	synonymous_variant
+G29157A		G	A	29157	missense_variant
+C29202T		C	T	29202	synonymous_variant
+C794T		C	T	794	synonymous_variant
+C4283T		C	T	4283	synonymous_variant
+T14062C		T	C	14062	synonymous_variant
+G23009C		G	C	23009	synonymous_variant
+A23997G		A	G	23997	missense_variant
+G3314T		G	T	3314	synonymous_variant
+G3336A		G	A	3336	missense_variant
+C22055A		C	A	22055	synonymous_variant
+T25923C		T	C	25923	
+G26155C		G	C	26155	missense_variant
+T26665G		T	G	26665	
+G29030A		G	A	29030	missense_variant
+G4790A		G	A	4790	synonymous_variant
+C26172T		C	T	26172	missense_variant
+A26820T		A	T	26820	missense_variant
+G23061A		G	A	23061	missense_variant
+G26767A		G	A	26767	synonymous_variant
+G5577T		G	T	5577	missense_variant
+C9782T		C	T	9782	synonymous_variant
+C19908T		C	T	19908	missense_variant
+C1169T		C	T	1169	synonymous_variant
+C4514T		C	T	4514	synonymous_variant
+T17926C		T	C	17926	synonymous_variant
+T18112C		T	C	18112	synonymous_variant
+G19204A		G	A	19204	synonymous_variant
+T21764C		T	C	21764	synonymous_variant
+C22726T		C	T	22726	missense_variant
+C24573T		C	T	24573	synonymous_variant
+G29157A		G	A	29157	missense_variant
+C29202T		C	T	29202	synonymous_variant
+T4433C		T	C	4433	synonymous_variant
+C5025T		C	T	5025	missense_variant
+C5717T		C	T	5717	synonymous_variant
+T16597C		T	C	16597	
+A16834T		A	T	16834	synonymous_variant
+T1169C		T	C	1169	
+C1687A		C	A	1687	missense_variant
+C2864T		C	T	2864	synonymous_variant
+C4258T		C	T	4258	missense_variant
+T6189C		T	C	6189	
+G6635T		G	T	6635	missense_variant
+G6903A		G	A	6903	missense_variant
+C7553T		C	T	7553	synonymous_variant
+T9570G		T	G	9570	missense_variant
+C10655T		C	T	10655	synonymous_variant
+C11249T		C	T	11249	synonymous_variant
+C11436T		C	T	11436	synonymous_variant
+C11531T		C	T	11531	synonymous_variant
+T14142C		T	C	14142	missense_variant
+T14162C		T	C	14162	
+C14223T		C	T	14223	missense_variant
+T14716G		T	G	14716	
+T15151C		T	C	15151	synonymous_variant
+C18178T		C	T	18178	synonymous_variant
+A18799G		A	G	18799	synonymous_variant
+C20180A		C	A	20180	missense_variant
+A20344G		A	G	20344	synonymous_variant
+G21531A		G	A	21531	missense_variant
+A22088T		A	T	22088	synonymous_variant
+T22181C		T	C	22181	synonymous_variant
+A22372G		A	G	22372	missense_variant
+G23831T		G	T	23831	missense_variant
+A26884G		A	G	26884	synonymous_variant
+C28089T		C	T	28089	synonymous_variant
+C28410T		C	T	28410	synonymous_variant
+T28543C		T	C	28543	upstream_gene_variant
+C28865T		C	T	28865	missense_variant
+A29157G		A	G	29157	
+T29202C		T	C	29202	
+T29366C		T	C	29366	synonymous_variant
+A29657G		A	G	29657	
+C2471T		C	T	2471	synonymous_variant
+C2794T		C	T	2794	missense_variant
+C6437T		C	T	6437	synonymous_variant
+A6662G		A	G	6662	synonymous_variant
+C9245T		C	T	9245	synonymous_variant
+C11612T		C	T	11612	synonymous_variant
+C11672T		C	T	11672	synonymous_variant
+G12962T		G	T	12962	synonymous_variant
+A14108G		A	G	14108	missense_variant
+T14512C		T	C	14512	synonymous_variant
+T17077C		T	C	17077	synonymous_variant
+C17101T		C	T	17101	synonymous_variant
+G18959T		G	T	18959	missense_variant
+T17098C		T	C	17098	synonymous_variant
+G17956T		G	T	17956	missense_variant
+C20302T		C	T	20302	synonymous_variant
+G22357T		G	T	22357	missense_variant
+T24164C		T	C	24164	synonymous_variant
+G24472A		G	A	24472	missense_variant
+G25373T		G	T	25373	synonymous_variant
+G25565T		G	T	25565	missense_variant
+T25789C		T	C	25789	synonymous_variant
+C25935T		C	T	25935	synonymous_variant
+A26346T		A	T	26346	missense_variant
+A1511G		A	G	1511	synonymous_variant
+T4235A		T	A	4235	synonymous_variant
+C13177T		C	T	13177	missense_variant
+C21713T		C	T	21713	
+C21764T		C	T	21764	
+T22726C		T	C	22726	
+A22865G		A	G	22865	synonymous_variant
+C22958T		C	T	22958	synonymous_variant
+T23049C		T	C	23049	missense_variant
+C23066T		C	T	23066	synonymous_variant
+C23688T		C	T	23688	missense_variant
+G24019A		G	A	24019	missense_variant
+C25194T		C	T	25194	missense_variant
+C25722T		C	T	25722	missense_variant
+A25747C		A	C	25747	synonymous_variant
+C26118G		C	G	26118	missense_variant
+C27148T		C	T	27148	synonymous_variant
+C28293T		C	T	28293	synonymous_variant
+A4996G		A	G	4996	
+C7553T		C	T	7553	synonymous_variant
+T7973C		T	C	7973	synonymous_variant
+A16585G		A	G	16585	synonymous_variant
+C1274T		C	T	1274	synonymous_variant
+C1419A		C	A	1419	missense_variant
+C2471T		C	T	2471	synonymous_variant
+C2794T		C	T	2794	missense_variant
+C5701T		C	T	5701	missense_variant
+A6174G		A	G	6174	missense_variant
+C6518T		C	T	6518	synonymous_variant
+C14722T		C	T	14722	synonymous_variant
+C20056T		C	T	20056	synonymous_variant
+C21944T		C	T	21944	synonymous_variant
+C25364T		C	T	25364	synonymous_variant
+C25731T		C	T	25731	missense_variant
+C25791T		C	T	25791	missense_variant
+T26242G		T	G	26242	missense_variant
+G28464A		G	A	28464	synonymous_variant
+G28703T		G	T	28703	synonymous_variant
+A29666G		A	G	29666	synonymous_variant
+G255A		G	A	255	upstream_gene_variant
+C504T		C	T	504	synonymous_variant
+C1982T		C	T	1982	synonymous_variant
+C2282T		C	T	2282	synonymous_variant
+T2301C		T	C	2301	synonymous_variant
+C3481A		C	A	3481	missense_variant
+C3484T		C	T	3484	missense_variant
+A3673T		A	T	3673	missense_variant
+G3692T		G	T	3692	synonymous_variant
+C5525T		C	T	5525	synonymous_variant
+C11102T		C	T	11102	synonymous_variant
+G11438T		G	T	11438	synonymous_variant
+A14211T		A	T	14211	missense_variant
+A14356G		A	G	14356	synonymous_variant
+C14695T		C	T	14695	synonymous_variant
+G17563T		G	T	17563	synonymous_variant
+C17713A		C	A	17713	synonymous_variant
+T18130C		T	C	18130	synonymous_variant
+G20522T		G	T	20522	missense_variant
+G24431T		G	T	24431	missense_variant
+G24927T		G	T	24927	missense_variant
+C24965T		C	T	24965	synonymous_variant
+C28185T		C	T	28185	synonymous_variant
+G28781A		G	A	28781	missense_variant
+C504T		C	T	504	synonymous_variant
+C6518T		C	T	6518	synonymous_variant
+C11249T		C	T	11249	synonymous_variant
+C14974T		C	T	14974	synonymous_variant
+T15691C		T	C	15691	synonymous_variant
+G17095T		G	T	17095	synonymous_variant
+G288A		G	A	288	missense_variant
+T1500C		T	C	1500	missense_variant
+C6059T		C	T	6059	
+A9395G		A	G	9395	
+C13846T		C	T	13846	synonymous_variant
+T18130C		T	C	18130	synonymous_variant
+G25785A		G	A	25785	missense_variant
+C25787T		C	T	25787	missense_variant
+C17926T		C	T	17926	
+C18112T		C	T	18112	
+A19204G		A	G	19204	
+T22726C		T	C	22726	
+G17647T		G	T	17647	synonymous_variant
+G19108A		G	A	19108	missense_variant
+T22919C		T	C	22919	synonymous_variant
+G10239C		G	C	10239	missense_variant
+C11631T		C	T	11631	missense_variant
+T13253C		T	C	13253	synonymous_variant
+C20782T		C	T	20782	synonymous_variant
+T20998C		T	C	20998	synonymous_variant
+C21764T		C	T	21764	
+C23969T		C	T	23969	synonymous_variant
+G28781A		G	A	28781	missense_variant
+T1628C		T	C	1628	synonymous_variant
+A4909G		A	G	4909	missense_variant
+C5497T		C	T	5497	missense_variant
+C6059T		C	T	6059	
+C9290T		C	T	9290	synonymous_variant
+T12449A		T	A	12449	synonymous_variant
+G12962T		G	T	12962	synonymous_variant
+A14108G		A	G	14108	missense_variant
+T14974C		T	C	14974	
+C15691T		C	T	15691	
+T16537C		T	C	16537	synonymous_variant
+G17089T		G	T	17089	synonymous_variant
+T17095G		T	G	17095	
+G17605T		G	T	17605	missense_variant
+C18052T		C	T	18052	synonymous_variant
+T20017G		T	G	20017	
+C20092T		C	T	20092	synonymous_variant
+C20692T		C	T	20692	synonymous_variant
+C20725A		C	A	20725	missense_variant
+C20874T		C	T	20874	missense_variant
+C22347T		C	T	22347	missense_variant
+A23997G		A	G	23997	missense_variant
+G24515T		G	T	24515	missense_variant
+G24548A		G	A	24548	synonymous_variant
+T24573C		T	C	24573	
+C25145T		C	T	25145	synonymous_variant
+G25493A		G	A	25493	synonymous_variant
+G25960C		G	C	25960	missense_variant
+A26489T		A	T	26489	stop_gained
+C27005T		C	T	27005	synonymous_variant
+T18145C		T	C	18145	synonymous_variant
+G18365T		G	T	18365	missense_variant
+C20911T		C	T	20911	synonymous_variant
+G21531C		G	C	21531	missense_variant
+C21764T		C	T	21764	
+T22206C		T	C	22206	synonymous_variant
+C22220T		C	T	22220	synonymous_variant
+C460T		C	T	460	missense_variant
+T1628C		T	C	1628	synonymous_variant
+C2864T		C	T	2864	synonymous_variant
+C6059T		C	T	6059	
+C10862T		C	T	10862	synonymous_variant
+C11631T		C	T	11631	missense_variant
+A12172G		A	G	12172	missense_variant
+T12449A		T	A	12449	synonymous_variant
+G12962T		G	T	12962	synonymous_variant
+C13846T		C	T	13846	synonymous_variant
+C15787T		C	T	15787	synonymous_variant
+T16564C		T	C	16564	synonymous_variant
+T19407C		T	C	19407	missense_variant
+C23012T		C	T	23012	synonymous_variant
+T23044C		T	C	23044	missense_variant
+C24195A		C	A	24195	missense_variant
+A29742G		A	G	29742	missense_variant
+C16477T		C	T	16477	synonymous_variant
+T27553C		T	C	27553	upstream_gene_variant
+G28069C		G	C	28069	missense_variant
+T4301C		T	C	4301	synonymous_variant
+T7067C		T	C	7067	synonymous_variant
+T1382C		T	C	1382	
+C5418T		C	T	5418	missense_variant
+T17095G		T	G	17095	
+G26744T		G	T	26744	missense_variant
+C29464T		C	T	29464	missense_variant
+C914T		C	T	914	synonymous_variant
+C2035G		C	G	2035	missense_variant
+A4561G		A	G	4561	missense_variant
+C5380T		C	T	5380	missense_variant
+C6056T		C	T	6056	synonymous_variant
+T6614G		T	G	6614	missense_variant
+C9257T		C	T	9257	synonymous_variant
+T14608A		T	A	14608	synonymous_variant
+T14860C		T	C	14860	synonymous_variant
+T15331G		T	G	15331	synonymous_variant
+A15334C		A	C	15334	missense_variant
+C15607T		C	T	15607	synonymous_variant
+C19514T		C	T	19514	missense_variant
+T20578C		T	C	20578	synonymous_variant
+A22256T		A	T	22256	synonymous_variant
+T22421C		T	C	22421	synonymous_variant
+C22726T		C	T	22726	missense_variant
+T23696C		T	C	23696	synonymous_variant
+A24481T		A	T	24481	missense_variant
+T24573C		T	C	24573	
+A26531T		A	T	26531	missense_variant
+G29440C		G	C	29440	missense_variant
+G29737T		G	T	29737	missense_variant
+A4042G		A	G	4042	missense_variant
+G4451A		G	A	4451	synonymous_variant
+C6281T		C	T	6281	synonymous_variant
+G6572C		G	C	6572	synonymous_variant
+C9335T		C	T	9335	synonymous_variant
+T11249C		T	C	11249	
+C11612T		C	T	11612	synonymous_variant
+C11672T		C	T	11672	synonymous_variant
+C11837T		C	T	11837	synonymous_variant
+A12680G		A	G	12680	synonymous_variant
+G12962T		G	T	12962	synonymous_variant
+T13223C		T	C	13223	synonymous_variant
+C13346T		C	T	13346	synonymous_variant
+A14108G		A	G	14108	missense_variant
+C14665T		C	T	14665	synonymous_variant
+T14974C		T	C	14974	
+C15646T		C	T	15646	synonymous_variant
+C15691T		C	T	15691	
+C15847T		C	T	15847	synonymous_variant
+T16929C		T	C	16929	missense_variant
+G17567T		G	T	17567	missense_variant
+G17647T		G	T	17647	synonymous_variant
+C18145T		C	T	18145	
+C18187T		C	T	18187	synonymous_variant
+T18365G		T	G	18365	
+G19108A		G	A	19108	missense_variant
+T19395G		T	G	19395	missense_variant
+A19396T		A	T	19396	synonymous_variant
+C20782T		C	T	20782	synonymous_variant
+T20911C		T	C	20911	
+T21150C		T	C	21150	missense_variant
+T22026C		T	C	22026	missense_variant
+G22831C		G	C	22831	missense_variant
+C23942T		C	T	23942	synonymous_variant
+C24296T		C	T	24296	
+G25082T		G	T	25082	synonymous_variant
+G25785A		G	A	25785	missense_variant
+C25787T		C	T	25787	missense_variant
+T26893C		T	C	26893	synonymous_variant
+C27073T		C	T	27073	synonymous_variant
+C27493T		C	T	27493	synonymous_variant
+C27730T		C	T	27730	synonymous_variant
+C28585T		C	T	28585	missense_variant
+T24573C		T	C	24573	
+C26109T		C	T	26109	
+T26683C		T	C	26683	synonymous_variant
+C27442T		C	T	27442	synonymous_variant
+T3971G		T	G	3971	synonymous_variant
+G7565A		G	A	7565	synonymous_variant
+C8876T		C	T	8876	synonymous_variant
+T15352C		T	C	15352	synonymous_variant
+C23012T		C	T	23012	synonymous_variant
+A26101G		A	G	26101	missense_variant
+C4058T		C	T	4058	synonymous_variant
+C6152T		C	T	6152	synonymous_variant
+C6743T		C	T	6743	synonymous_variant
+C8550T		C	T	8550	missense_variant
+C10327T		C	T	10327	missense_variant
+A10640G		A	G	10640	synonymous_variant
+G11229T		G	T	11229	missense_variant
+C16956T		C	T	16956	missense_variant
+T5060C		T	C	5060	synonymous_variant
+G13955T		G	T	13955	missense_variant
+T22952C		T	C	22952	synonymous_variant
+C29110T		C	T	29110	missense_variant
+A22366G		A	G	22366	missense_variant

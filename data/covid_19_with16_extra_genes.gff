@@ -1,0 +1,117 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+#!genome-build ASM985889v3
+#!genome-build-accession NCBI_Assembly:GCF_009858895.2
+##sequence-region NC_045512v2 1 29903
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+NC_045512v2	RefSeq	region	1	29903	.	+	.	ID=NC_045512v2:1..29903;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=genomic RNA;nat-host=Homo sapiens
+NC_045512v2	RefSeq	five_prime_UTR	1	265	.	+	.	ID=id-NC_045512v2:1..265;gbkey=5'UTR
+NC_045512v2	RefSeq	gene	266	805	.	+	.	ID=gene-nsp1;Name=nsp1;gene=nsp1;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GU280_gp01
+NC_045512v2	RefSeq	transcript	266	805	.	+	.	ID=transcript-nsp1;Name=transcript_of_nsp1;Parent=gene-nsp1;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	266	805	.	+	.	ID=exon-nsp1;Name=exon_of_nsp1;Parent=transcript-nsp1
+NC_045512v2	RefSeq	CDS	266	805	.	+	0	ID=cds-nsp1;Name=cds_of_nsp1;Parent=transcript-nsp1
+NC_045512v2	RefSeq	gene	806	2719	.	+	.	ID=gene-nsp2;Name=nsp2;gene=nsp2;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GU280_gp01
+NC_045512v2	RefSeq	transcript	806	2719	.	+	.	ID=transcript-nsp2;Name=transcript_of_nsp2;Parent=gene-nsp2;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	806	2719	.	+	.	ID=exon-nsp2;Name=exon_of_nsp2;Parent=transcript-nsp2
+NC_045512v2	RefSeq	CDS	806	2719	.	+	0	ID=cds-nsp2;Name=cds_of_nsp2;Parent=transcript-nsp2
+NC_045512v2	RefSeq	gene	2720	8554	.	+	.	ID=gene-nsp3;Name=nsp3;gene=nsp3;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GU280_gp01
+NC_045512v2	RefSeq	transcript	2720	8554	.	+	.	ID=transcript-nsp3;Name=transcript_of_nsp3;Parent=gene-nsp3;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	2720	8554	.	+	.	ID=exon-nsp3;Name=exon_of_nsp3;Parent=transcript-nsp3
+NC_045512v2	RefSeq	CDS	2720	8554	.	+	0	ID=cds-nsp3;Name=cds_of_nsp3;Parent=transcript-nsp3
+NC_045512v2	RefSeq	gene	8555	10054	.	+	.	ID=gene-nsp4;Name=nsp4;gene=nsp4;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GU280_gp01
+NC_045512v2	RefSeq	transcript	8555	10054	.	+	.	ID=transcript-nsp4;Name=transcript_of_nsp4;Parent=gene-nsp4;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	8555	10054	.	+	.	ID=exon-nsp4;Name=exon_of_nsp4;Parent=transcript-nsp4
+NC_045512v2	RefSeq	CDS	8555	10054	.	+	0	ID=cds-nsp4;Name=cds_of_nsp4;Parent=transcript-nsp4
+NC_045512v2	RefSeq	gene	10055	10972	.	+	.	ID=gene-nsp5;Name=nsp5;gene=nsp5;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GU280_gp01
+NC_045512v2	RefSeq	transcript	10055	10972	.	+	.	ID=transcript-nsp5;Name=transcript_of_nsp5;Parent=gene-nsp5;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	10055	10972	.	+	.	ID=exon-nsp5;Name=exon_of_nsp5;Parent=transcript-nsp5
+NC_045512v2	RefSeq	CDS	10055	10972	.	+	0	ID=cds-nsp5;Name=cds_of_nsp5;Parent=transcript-nsp5
+NC_045512v2	RefSeq	gene	10973	11842	.	+	.	ID=gene-nsp6;Name=nsp6;gene=nsp6;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GU280_gp01
+NC_045512v2	RefSeq	transcript	10973	11842	.	+	.	ID=transcript-nsp6;Name=transcript_of_nsp6;Parent=gene-nsp6;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	10973	11842	.	+	.	ID=exon-nsp6;Name=exon_of_nsp6;Parent=transcript-nsp6
+NC_045512v2	RefSeq	CDS	10973	11842	.	+	0	ID=cds-nsp6;Name=cds_of_nsp6;Parent=transcript-nsp6
+NC_045512v2	RefSeq	gene	11843	12091	.	+	.	ID=gene-nsp7;Name=nsp7;gene=nsp7;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GU280_gp01
+NC_045512v2	RefSeq	transcript	11843	12091	.	+	.	ID=transcript-nsp7;Name=transcript_of_nsp7;Parent=gene-nsp7;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	11843	12091	.	+	.	ID=exon-nsp7;Name=exon_of_nsp7;Parent=transcript-nsp7
+NC_045512v2	RefSeq	CDS	11843	12091	.	+	0	ID=cds-nsp7;Name=cds_of_nsp7;Parent=transcript-nsp7
+NC_045512v2	RefSeq	gene	12092	12685	.	+	.	ID=gene-nsp8;Name=nsp8;gene=nsp8;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GU280_gp01
+NC_045512v2	RefSeq	transcript	12092	12685	.	+	.	ID=transcript-nsp8;Name=transcript_of_nsp8;Parent=gene-nsp8;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	12092	12685	.	+	.	ID=exon-nsp8;Name=exon_of_nsp8;Parent=transcript-nsp8
+NC_045512v2	RefSeq	CDS	12092	12685	.	+	0	ID=cds-nsp8;Name=cds_of_nsp8;Parent=transcript-nsp8
+NC_045512v2	RefSeq	gene	12686	13024	.	+	.	ID=gene-nsp9;Name=nsp9;gene=nsp9;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GU280_gp01
+NC_045512v2	RefSeq	transcript	12686	13024	.	+	.	ID=transcript-nsp9;Name=transcript_of_nsp9;Parent=gene-nsp9;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	12686	13024	.	+	.	ID=exon-nsp9;Name=exon_of_nsp9;Parent=transcript-nsp9
+NC_045512v2	RefSeq	CDS	12686	13024	.	+	0	ID=cds-nsp9;Name=cds_of_nsp9;Parent=transcript-nsp9
+NC_045512v2	RefSeq	gene	13025	13441	.	+	.	ID=gene-nsp10;Name=nsp10;gene=nsp10;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GU280_gp01
+NC_045512v2	RefSeq	transcript	13025	13441	.	+	.	ID=transcript-nsp10;Name=transcript_of_nsp10;Parent=gene-nsp10;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	13025	13441	.	+	.	ID=exon-nsp10;Name=exon_of_nsp10;Parent=transcript-nsp10
+NC_045512v2	RefSeq	CDS	13025	13441	.	+	0	ID=cds-nsp10;Name=cds_of_nsp10;Parent=transcript-nsp10
+NC_045512v2	RefSeq	gene	13442	13480	.	+	.	ID=gene-nsp11;Name=nsp11;gene=nsp11;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GU280_gp01
+NC_045512v2	RefSeq	transcript	13442	13480	.	+	.	ID=transcript-nsp11;Name=transcript_of_nsp11;Parent=gene-nsp11;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	13442	13480	.	+	.	ID=exon-nsp11;Name=exon_of_nsp11;Parent=transcript-nsp11
+NC_045512v2	RefSeq	CDS	13442	13480	.	+	0	ID=cds-nsp11;Name=cds_of_nsp11;Parent=transcript-nsp11
+NC_045512v2	RefSeq	gene	13442	16236	.	+	.	ID=gene-nsp12;Name=nsp12;gene=nsp12;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GU280_gp01
+NC_045512v2	RefSeq	transcript	13442	13468	.	+	.	ID=mRNA-nsp12;Name=transcript_1_of_nsp12;Parent=gene-nsp12;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	13442	13468	.	+	.	ID=exon-nsp12;Name=exon_of_nsp12;Parent=mRNA-nsp12
+NC_045512v2	RefSeq	CDS	13442	13468	.	+	0	ID=cds_1-nsp12;Name=cds_1_of_nsp12;Parent=mRNA-nsp12
+NC_045512v2	RefSeq	transcript	13468	16236	.	+	.	ID=mRNA2-nsp12;Name=transcript_2_of_nsp12;Parent=gene-nsp12;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	13468	16236	.	+	.	ID=exon2-nsp12;Name=exon2_of_nsp12;Parent=mRNA2-nsp12
+NC_045512v2	RefSeq	CDS	13468	16236	.	+	0	ID=cds_2-nsp12;Name=cds_2_of_nsp12;Parent=mRNA2-nsp12
+NC_045512v2	RefSeq	gene	16237	18039	.	+	.	ID=gene-nsp13;Name=nsp13;gene=nsp13;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GU280_gp01
+NC_045512v2	RefSeq	transcript	16237	18039	.	+	.	ID=transcript-nsp13;Name=transcript_of_nsp13;Parent=gene-nsp13;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	16237	18039	.	+	.	ID=exon-nsp13;Name=exon_of_nsp13;Parent=transcript-nsp13
+NC_045512v2	RefSeq	CDS	16237	18039	.	+	0	ID=cds-nsp13;Name=cds_of_nsp13;Parent=transcript-nsp13
+NC_045512v2	RefSeq	gene	18040	19620	.	+	.	ID=gene-nsp14;Name=nsp14;gene=nsp14;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GU280_gp01
+NC_045512v2	RefSeq	transcript	18040	19620	.	+	.	ID=transcript-nsp14;Name=transcript_of_nsp14;Parent=gene-nsp14;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	18040	19620	.	+	.	ID=exon-nsp14;Name=exon_of_nsp14;Parent=transcript-nsp14
+NC_045512v2	RefSeq	CDS	18040	19620	.	+	0	ID=cds-nsp14;Name=cds_of_nsp14;Parent=transcript-nsp14
+NC_045512v2	RefSeq	gene	19621	20658	.	+	.	ID=gene-nsp15;Name=nsp15;gene=nsp15;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GU280_gp01
+NC_045512v2	RefSeq	transcript	19621	20658	.	+	.	ID=transcript-nsp15;Name=transcript_of_nsp15;Parent=gene-nsp15;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	19621	20658	.	+	.	ID=exon-nsp15;Name=exon_of_nsp15;Parent=transcript-nsp15
+NC_045512v2	RefSeq	CDS	19621	20658	.	+	0	ID=cds-nsp15;Name=cds_of_nsp15;Parent=transcript-nsp15
+NC_045512v2	RefSeq	gene	20659	21552	.	+	.	ID=gene-nsp16;Name=nsp16;gene=nsp16;gbkey=Gene;gene_biotype=protein_coding;locus_tag=GU280_gp01
+NC_045512v2	RefSeq	transcript	20659	21552	.	+	.	ID=transcript-nsp16;Name=transcript_of_nsp16;Parent=gene-nsp16;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	20659	21552	.	+	.	ID=exon-nsp16;Name=exon_of_nsp16;Parent=transcript-nsp16
+NC_045512v2	RefSeq	CDS	20659	21552	.	+	0	ID=cds-nsp16;Name=cds_of_nsp16;Parent=transcript-nsp16
+NC_045512v2	RefSeq	gene	21563	25384	.	+	.	ID=gene-GU280_gp02;Name=S;Dbxref=GeneID:43740568;gbkey=Gene;gene=S;gene_biotype=protein_coding;locus_tag=GU280_gp02
+NC_045512v2	RefSeq	transcript	21563	25384	.	+	.	ID=transcript-TU280_gp02;Name=transcript_of_S;Parent=gene-GU280_gp02;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	21563	25384	.	+	.	ID=exon-TU280_gp02;Name=exon_of_S;Parent=transcript-TU280_gp02
+NC_045512v2	RefSeq	CDS	21563	25384	.	+	0	ID=cds-YP_009724390.1;Name=YP_009724390.1;Parent=transcript-TU280_gp02;Dbxref=Genbank:YP_009724390.1,GeneID:43740568;Note=structural protein%3B spike protein;gbkey=CDS;gene=S;locus_tag=GU280_gp02;product=surface glycoprotein;protein_id=YP_009724390.1
+NC_045512v2	RefSeq	gene	25393	26220	.	+	.	ID=gene-GU280_gp03;Name=ORF3a;Dbxref=GeneID:43740569;gbkey=Gene;gene=ORF3a;gene_biotype=protein_coding;locus_tag=GU280_gp03
+NC_045512v2	RefSeq	transcript	25393	26220	.	+	.	ID=transcript-GU280_gp03;Name=transcript_of_ORF3a;Parent=gene-GU280_gp03;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	25393	26220	.	+	.	ID=exon-GU280_gp03;Name=exon_of_ORF3a;Parent=transcript-GU280_gp03
+NC_045512v2	RefSeq	CDS	25393	26220	.	+	0	ID=cds-YP_009724391.1;Name=YP_009724391.1;Parent=transcript-GU280_gp03;Dbxref=Genbank:YP_009724391.1,GeneID:43740569;gbkey=CDS;gene=ORF3a;locus_tag=GU280_gp03;product=ORF3a protein;protein_id=YP_009724391.1
+NC_045512v2	RefSeq	gene	26245	26472	.	+	.	ID=gene-GU280_gp04;Name=E;Dbxref=GeneID:43740570;gbkey=Gene;gene=E;gene_biotype=protein_coding;locus_tag=GU280_gp04
+NC_045512v2	RefSeq	transcript	26245	26472	.	+	.	ID=transcript-GU280_gp04;Name=transcript_of_E;Parent=gene-GU280_gp04;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	26245	26472	.	+	.	ID=exon-GU280_gp04;Name=exon_of_E;Parent=transcript-GU280_gp04
+NC_045512v2	RefSeq	CDS	26245	26472	.	+	0	ID=cds-YP_009724392.1;Name=YP_009724392.1;Parent=transcript-GU280_gp04;Dbxref=Genbank:YP_009724392.1,GeneID:43740570;Note=ORF4%3B structural protein%3B E protein;gbkey=CDS;gene=E;locus_tag=GU280_gp04;product=envelope protein;protein_id=YP_009724392.1
+NC_045512v2	RefSeq	gene	26523	27191	.	+	.	ID=gene-GU280_gp05;Name=M;Dbxref=GeneID:43740571;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=GU280_gp05
+NC_045512v2	RefSeq	transcript	26523	27191	.	+	.	ID=transcript-GU280_gp05;Name=transcript_of_M;Parent=gene-GU280_gp05;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	26523	27191	.	+	.	ID=exon-GU280_gp05;Name=exon_of_M;Parent=transcript-GU280_gp05
+NC_045512v2	RefSeq	CDS	26523	27191	.	+	0	ID=cds-YP_009724393.1;Name=YP_009724393.1;Parent=transcript-GU280_gp05;Dbxref=Genbank:YP_009724393.1,GeneID:43740571;Note=ORF5%3B structural protein;gbkey=CDS;gene=M;locus_tag=GU280_gp05;product=membrane glycoprotein;protein_id=YP_009724393.1
+NC_045512v2	RefSeq	gene	27202	27387	.	+	.	ID=gene-GU280_gp06;Name=ORF6;Dbxref=GeneID:43740572;gbkey=Gene;gene=ORF6;gene_biotype=protein_coding;locus_tag=GU280_gp06
+NC_045512v2	RefSeq	transcript	27202	27387	.	+	.	ID=transcript-GU280_gp06;Name=transcript_of_ORF6;Parent=gene-GU280_gp06;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	27202	27387	.	+	.	ID=exon-GU280_gp06;Name=exon_of_ORF6;Parent=transcript-GU280_gp06
+NC_045512v2	RefSeq	CDS	27202	27387	.	+	0	ID=cds-YP_009724394.1;Name=YP_009724394.1;Parent=transcript-GU280_gp06;Dbxref=Genbank:YP_009724394.1,GeneID:43740572;gbkey=CDS;gene=ORF6;locus_tag=GU280_gp06;product=ORF6 protein;protein_id=YP_009724394.1
+NC_045512v2	RefSeq	gene	27394	27759	.	+	.	ID=gene-GU280_gp07;Name=ORF7a;Dbxref=GeneID:43740573;gbkey=Gene;gene=ORF7a;gene_biotype=protein_coding;locus_tag=GU280_gp07
+NC_045512v2	RefSeq	transcript	27394	27759	.	+	.	ID=transcript-GU280_gp07;Name=transcript_of_ORF7a;Parent=gene-GU280_gp07;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	27394	27759	.	+	.	ID=exon-GU280_gp07;Name=exon_of_ORF7a;Parent=transcript-GU280_gp07
+NC_045512v2	RefSeq	CDS	27394	27759	.	+	0	ID=cds-YP_009724395.1;Name=YP_009724395.1;Parent=transcript-GU280_gp07;Dbxref=Genbank:YP_009724395.1,GeneID:43740573;gbkey=CDS;gene=ORF7a;locus_tag=GU280_gp07;product=ORF7a protein;protein_id=YP_009724395.1
+NC_045512v2	RefSeq	gene	27756	27887	.	+	.	ID=gene-GU280_gp08;Name=ORF7b;Dbxref=GeneID:43740574;gbkey=Gene;gene=ORF7b;gene_biotype=protein_coding;locus_tag=GU280_gp08
+NC_045512v2	RefSeq	transcript	27756	27887	.	+	.	ID=transcript-GU280_gp08;Name=transcript_of_ORF7b;Parent=gene-GU280_gp08;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	27756	27887	.	+	.	ID=exon-GU280_gp08;Name=exon_of_ORF7b;Parent=transcript-GU280_gp08
+NC_045512v2	RefSeq	CDS	27756	27887	.	+	0	ID=cds-YP_009725296.1;Name=YP_009725296.1;Parent=transcript-GU280_gp08;Dbxref=Genbank:YP_009725296.1,GeneID:43740574;gbkey=CDS;gene=ORF7b;locus_tag=GU280_gp08;product=ORF7b;protein_id=YP_009725296.1
+NC_045512v2	RefSeq	gene	27894	28259	.	+	.	ID=gene-GU280_gp09;Name=ORF8;Dbxref=GeneID:43740577;gbkey=Gene;gene=ORF8;gene_biotype=protein_coding;locus_tag=GU280_gp09
+NC_045512v2	RefSeq	transcript	27894	28259	.	+	.	ID=transcript-GU280_gp09;Name=transcript_of_ORF8;Parent=gene-GU280_gp09;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	27894	28259	.	+	.	ID=exon-GU280_gp09;Name=exon_of_ORF8;Parent=transcript-GU280_gp09
+NC_045512v2	RefSeq	CDS	27894	28259	.	+	0	ID=cds-YP_009724396.1;Name=YP_009724396.1;Parent=transcript-GU280_gp09;Dbxref=Genbank:YP_009724396.1,GeneID:43740577;gbkey=CDS;gene=ORF8;locus_tag=GU280_gp09;product=ORF8 protein;protein_id=YP_009724396.1
+NC_045512v2	RefSeq	gene	28274	29533	.	+	.	ID=gene-GU280_gp10;Name=N;Dbxref=GeneID:43740575;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=GU280_gp10
+NC_045512v2	RefSeq	transcript	28274	29533	.	+	.	ID=transcript-GU280_gp10;Name=transcript_of_N;Parent=gene-GU280_gp10;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	28274	29533	.	+	.	ID=exon-GU280_gp10;Name=exon_of_N;Parent=transcript-GU280_gp10
+NC_045512v2	RefSeq	CDS	28274	29533	.	+	0	ID=cds-YP_009724397.2;Name=YP_009724397.2;Parent=transcript-GU280_gp10;Dbxref=Genbank:YP_009724397.2,GeneID:43740575;Note=ORF9%3B structural protein;gbkey=CDS;gene=N;locus_tag=GU280_gp10;product=nucleocapsid phosphoprotein;protein_id=YP_009724397.2
+NC_045512v2	RefSeq	gene	29558	29674	.	+	.	ID=gene-GU280_gp11;Name=ORF10;Dbxref=GeneID:43740576;gbkey=Gene;gene=ORF10;gene_biotype=protein_coding;locus_tag=GU280_gp11
+NC_045512v2	RefSeq	transcript	29558	29674	.	+	.	ID=transcript-GU280_gp11;Name=transcript_of_ORF10;Parent=gene-GU280_gp11;transcript_type=protein_coding
+NC_045512v2	RefSeq	exon	29558	29674	.	+	.	ID=exon-GU280_gp11;Name=exon_of_ORF10;Parent=transcript-GU280_gp11
+NC_045512v2	RefSeq	CDS	29558	29674	.	+	0	ID=cds-YP_009725255.1;Name=YP_009725255.1;Parent=transcript-GU280_gp11;Dbxref=Genbank:YP_009725255.1,GeneID:43740576;gbkey=CDS;gene=ORF10;locus_tag=GU280_gp11;product=ORF10 protein;protein_id=YP_009725255.1
+NC_045512v2	RefSeq	three_prime_UTR	29675	29903	.	+	.	ID=id-NC_045512v2:29675..29903;gbkey=3'UTR

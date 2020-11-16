@@ -1,0 +1,33 @@
+position_Start	position_End	UTR_ORF	Protein	Prot_pos	AA	Annot	Reason	Source			
+1	55	5_UTR	NA			mask	genome_end	Source1			
+187	187	5_UTR	NA			mask	homoplasy	Source1			
+1059	1059	Orf1ab	Pp1a	265	T	mask	homoplasy	Source1			
+2094	2094	Orf1ab	Pp1a	610	S	mask	homoplasy	Source1			
+3037	3037	Orf1ab	Pp1a			mask	homoplasy	Source1			
+3130	3130	Orf1ab	Pp1a			mask	homoplasy	Source1			
+4050	4050	Orf1a	Pp1a	1262	N	mask	homoplasy	Source1			
+6990	6990	Orf1ab	Pp1a	2242	S	mask	homoplasy	Source1			
+8022	8022	Orf1ab	Pp1a	2586	V	mask	homoplasy	Source1			
+10323	10323	Orf1ab	Pp1a	3353	K	mask	homoplasy	Source1			
+10741	10741	Orf1ab	Pp1a			mask	homoplasy	Source1			
+11074	11074	Orf1ab				mask	homoplasy	Source1			
+11083	11083	Orf1a	Pp1a			mask	homoplasy	Source1			
+13402	13402	Orf1a	Pp1a			mask	homoplasy	Source1			
+13408	13408	Orf1ab				mask	homoplasy	Source1			
+14786	14786	Orf1ab				mask	homoplasy	Source1			
+15324	15324	Orf1a	Pp1a			mask	homoplasy	Source1			
+19684	19684	Orf1ab	Pp1ab			mask	homoplasy	Source1			
+20148	20148	Orf1ab	Pp1ab			mask	homoplasy	Source1			
+21137	21137	Orf1ab	Pp1ab	6958	K	mask	homoplasy	Source1			
+21575	21575	Orf1a	Pp1a			mask	homoplasy	Source1			
+24034	24034	S	S			mask	homoplasy	Source1			
+24378	24378	S	S	939	S	mask	homoplasy	Source1			
+25563	25563	Orf3a	Orf3a			mask	homoplasy	Source1			
+26144	26144	Orf3a	Orf3a	251	G	mask	homoplasy	Source1			
+26461	26461	E	E			mask	homoplasy	Source1			
+26681	26681	M	M			mask	homoplasy	Source1			
+28077	28077	Orf8	Orf8			mask	homoplasy	Source1			
+28826	28826	N	N			mask	homoplasy	Source1			
+28854	28854	N	N	194	S	mask	homoplasy	Source1			
+29700	29700	3_UTR	NA			mask	homoplasy	Source1			
+29804	29903	3_UTR	NA			mask	genome_end	Source1			
