@@ -19,11 +19,6 @@ Where `src/list_30july.txt` contains a list of ftp adresses of fastq files obtai
 
 The pipeline results are in the `output/` folder.  
 
-~~Raw data is stored in our cluster:  ~~  
-~~`/workspace/datasets/sars_cov_2/cov-UK/raw/paired/` : Paired (illumina) reads (n = 13055).  ~~  
-~~`/workspace/datasets/sars_cov_2/cov-UK/raw/single/` : Single (nanopore) reads. (n = 8218). ~~  
-~~`/home/mgrau/projects/covid/ferrets/data/UK/paired/` : Paired (illumina) reads, small set (n = 371).  ~~  
-
 ## How to run
 
 There are two pipeline options, for paired and single reads:     
