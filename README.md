@@ -3,7 +3,7 @@
 
 This repository presents the SARS-CoV-2 genomics analyses conducted by Miguel L. Grau, Francisco Martínez-Jiménez, Oriol Pich and Nuria Lopez-Bigas at the Biomedical Genomics Lab of Barcelona <https://bbglab.irbbarcelona.org/>.   
 
-Most of these analyses are included in the manuscript "[Genomic epidemiology of superspreading events in Austria reveals mutational dynamics and transmission properties of SARS-CoV-2](https://stm.sciencemag.org/content/early/2020/11/20/scitranslmed.abe2555) <citation>", please consider citing this manuscript if you want to reference any of these results. The main repository of the consortium is available at <https://www.sarscov2-austria.org/>   
+Most of these analyses are included in the manuscript "[Genomic epidemiology of superspreading events in Austria reveals mutational dynamics and transmission properties of SARS-CoV-2](https://stm.sciencemag.org/content/early/2020/11/20/scitranslmed.abe2555) <citation>", please consider citing this manuscript if you want to reference any of these results. The main repository of the consortium is available at <https://www.sarscov2-austria.org/our-publications/popa-genger-2020/>   
 
 # Table of contents
 
@@ -30,9 +30,9 @@ The additional analysis using data available from the 'COVID-19 Genomics UK (COG
 
 ### Directory tree  
 
- - ~~JSON files from Nextstrain output are located at `data/json.tar.gz`. There are two files, `SARS-CoV-2-project_NextstrainAustria.json` (including all Austrian + GISAID samples) and `SARS-CoV-2-project_NextstrainAustria_OnlyAustrian.json` (with only Austrian samples).~~ held until publication
+ - JSON files from Nextstrain output. There are two files, [1-Phylogenetic tree including global samples](https://nextstrain.org/community/bergthalerlab/SARS-CoV-2/NextstrainAustria). (Austrian + GISAID) and [2-Phylogenetic tree of Austrian samples](https://nextstrain.org/community/bergthalerlab/SARS-CoV-2/OnlyAustrian) 
 
- - ~~All the extracted variants are located here: `data/intra/`  `data/inter/`~~ held until publication
+ - All the extracted variants are located here: `data/intra/`  `data/inter/`
 
 - In addition, lists of mutations for illumina (`data/illumina/`) and nanopore sars-cov2 (`data/nanopore/`) and MERS (`data/MERS/`) are available. 
 
