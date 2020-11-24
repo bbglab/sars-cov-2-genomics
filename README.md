@@ -3,7 +3,7 @@
 
 This repository presents the SARS-CoV-2 genomics analyses conducted by Miguel L. Grau, Francisco Martínez-Jiménez, Oriol Pich and Nuria Lopez-Bigas at the Biomedical Genomics Lab of Barcelona <https://bbglab.irbbarcelona.org/>.   
 
-Most of these analyses are included in the manuscript "[Mutational dynamics and transmission properties of SARS-CoV-2](https://stm.sciencemag.org/content/early/2020/11/20/scitranslmed.abe2555) <citation>", please consider citing this manuscript if you want to reference any of these results. The main repository of the consortium is available at <https://www.sarscov2-austria.org/>   
+Most of these analyses are included in the manuscript "[Genomic epidemiology of superspreading events in Austria reveals mutational dynamics and transmission properties of SARS-CoV-2](https://stm.sciencemag.org/content/early/2020/11/20/scitranslmed.abe2555) <citation>", please consider citing this manuscript if you want to reference any of these results. The main repository of the consortium is available at <https://www.sarscov2-austria.org/>   
 
 # Table of contents
 
